@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .VOTO one-word domains still available to buy.
 
-This dataset contains 4,916 .VOTO one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,915 .VOTO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.VOTO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=voto-oneword-domains&utm_content=description.top) (4,913) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.VOTO one word domains
 | abatic.voto     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.voto    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.voto   | available | 50       | 1%     | 8      |           |         |         |
-| abc.voto        | available | 102      | 41%    | 3      |           |         |         |
+| abc.voto        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.voto  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.voto  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.voto | available | 56       | 1%     | 10     |           |         |         |
