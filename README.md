@@ -73,16 +73,16 @@ print(df.head())
 | good.voto   | available | $19.99    | $102.99       | 82             | 55     | 4      | name.com          |
 | pay.voto    | resell    | —         | —             | 84             | 60     | 3      | Sav.com, LLC      |
 | all.voto    | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com          |
-| fast.voto   | available | $19.99    | $102.99       | 82             | 53     | 4      | name.com          |
-| free.voto   | resell    | —         | —             | 88             | 59     | 4      | NameCheap, Inc.   |
-| gold.voto   | premium   | $128.70   | $128.70       | 72             | 48     | 4      | namecheap         |
 | true.voto   | available | $19.99    | $102.99       | 86             | 52     | 4      | name.com          |
 | cloud.voto  | resell    | —         | —             | 70             | 59     | 5      | Spaceship, Inc.   |
+| gold.voto   | premium   | $128.70   | $128.70       | 72             | 48     | 4      | namecheap         |
+| fast.voto   | available | $19.99    | $102.99       | 82             | 52     | 4      | name.com          |
+| free.voto   | resell    | —         | —             | 88             | 57     | 4      | NameCheap, Inc.   |
 | big.voto    | premium   | $123.75   | $123.75       | 88             | 47     | 3      | name.com          |
-| design.voto | available | $19.99    | $102.99       | 108            | 50     | 6      | name.com          |
+| simple.voto | available | $19.99    | $102.99       | 128            | 49     | 6      | name.com          |
 | world.voto  | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC - 44 |
 | green.voto  | premium   | $65       | $65           | 108            | 44     | 5      | namecheap         |
-| clear.voto  | available | $19.99    | $102.99       | 90             | 49     | 5      | name.com          |
+| design.voto | available | $19.99    | $102.99       | 108            | 49     | 6      | name.com          |
 | game.voto   | resell    | —         | —             | 120            | 50     | 4      | Sav.com, LLC - 22 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
