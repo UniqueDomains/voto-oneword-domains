@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .voto one-word domains from Unique
 
 **Public extract:** 9,898 rows · **Live catalog:** 9,898 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/voto`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | easy.voto   | available | $19.99    | $102.99       | 128            | 68     | 4      | name.com          |
 | zero.voto   | resell    | $437      | $102.99       | 112            | 53     | 4      | NameCheap, Inc.   |
-| alpha.voto  | premium   | $19.99    | $102.99       | 90             | 54     | 5      | name.com          |
+| alpha.voto  | premium   | $19.99    | $102.99       | 90             | 53     | 5      | name.com          |
 | live.voto   | available | $19.99    | $102.99       | 108            | 56     | 4      | name.com          |
 | love.voto   | resell    | —         | —             | 86             | 99     | 4      | Spaceship, Inc.   |
 | one.voto    | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com          |
@@ -81,7 +81,7 @@ print(df.head())
 | big.voto    | premium   | $123.75   | $123.75       | 88             | 47     | 3      | name.com          |
 | design.voto | available | $19.99    | $102.99       | 108            | 50     | 6      | name.com          |
 | world.voto  | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC - 44 |
-| green.voto  | premium   | $65       | $65           | 108            | 45     | 5      | namecheap         |
+| green.voto  | premium   | $65       | $65           | 108            | 44     | 5      | namecheap         |
 | clear.voto  | available | $19.99    | $102.99       | 90             | 49     | 5      | name.com          |
 | game.voto   | resell    | —         | —             | 120            | 50     | 4      | Sav.com, LLC - 22 |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTO One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
