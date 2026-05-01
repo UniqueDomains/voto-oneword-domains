@@ -1,10 +1,10 @@
-# Available .VOTO One-Word Domains (12,497)
+# Available .VOTO One-Word Domains (12,885)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C497%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C885%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .voto one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,497 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,885 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,497 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,885 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/voto`  
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | jobs.voto          | premium   | $123.75   | —             | 79             | 42     | 4      | name.com        |
 | coins.voto         | available | $19.99    | —             | 56             | 41     | 5      | name.com        |
 | dont.voto          | premium   | $123.75   | —             | 42             | 18     | 4      | name.com        |
-| prompts.voto       | available | $19.99    | —             | 54             | 39     | 7      | name.com        |
-| LongBeach.voto     | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap       |
 | WiFi.voto          | available | $86.98    | —             | 83             | 37     | 5      | namecheap       |
-| getoutthevote.voto | premium   | $123.75   | —             | 70             | 2      | 16     | name.com        |
+| LongBeach.voto     | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap       |
 | neuroscience.voto  | available | $19.99    | —             | 80             | 37     | 12     | name.com        |
-| aliens.voto        | available | $19.99    | —             | 56             | 35     | 6      | name.com        |
+| getoutthevote.voto | premium   | $123.75   | —             | 70             | 2      | 16     | name.com        |
 | homes.voto         | available | $19.99    | —             | 86             | 34     | 5      | name.com        |
 | tickets.voto       | available | $19.99    | —             | 64             | 34     | 7      | name.com        |
 | spectra.voto       | available | $19.99    | —             | 62             | 34     | 7      | name.com        |
 | etc.voto           | available | $19.99    | —             | 58             | 34     | 3      | name.com        |
 | teams.voto         | available | $19.99    | —             | 62             | 32     | 5      | name.com        |
-| partners.voto      | available | $19.99    | —             | 61             | 32     | 8      | name.com        |
 | trends.voto        | available | $19.99    | —             | 60             | 32     | 6      | name.com        |
 | letsgo.voto        | available | $19.99    | —             | 57             | 31     | 7      | name.com        |
 | maps.voto          | available | $19.99    | —             | 56             | 31     | 4      | name.com        |
+| solutions.voto     | available | $19.99    | —             | 56             | 31     | 9      | name.com        |
+| spaces.voto        | available | $19.99    | —             | 54             | 30     | 6      | name.com        |
+| popup.voto         | available | $19.99    | —             | 84             | 29     | 6      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,497 live domains                              |
+| 1,000-row public sample | 12,885 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTO One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
