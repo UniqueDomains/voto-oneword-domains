@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .voto one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,886 domains · **Median ask:** $26.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/voto`  
 **Best for:** founders, investors, studios
 
@@ -67,12 +67,12 @@ print(df.head())
 | girls.voto         | available | $19.99    | —             | 83             | 23     | 5      | name.com        |
 | WiFi.voto          | available | $86.98    | —             | 83             | 37     | 5      | namecheap       |
 | homes.voto         | available | $19.99    | —             | 86             | 34     | 5      | name.com        |
-| getup.voto         | available | $19.99    | —             | 82             | 14     | 6      | name.com        |
-| popup.voto         | available | $19.99    | —             | 84             | 29     | 6      | name.com        |
+| getup.voto         | available | $19.99    | —             | 82             | 15     | 6      | name.com        |
+| popup.voto         | available | $19.99    | —             | 84             | 28     | 6      | name.com        |
 | dogsit.voto        | available | $19.99    | —             | 96             | 2      | 6      | name.com        |
 | playin.voto        | available | $19.99    | —             | 80             | 10     | 7      | name.com        |
 | playon.voto        | available | $19.99    | —             | 80             | 14     | 7      | name.com        |
-| makeit.voto        | available | $19.99    | —             | 82             | 22     | 7      | name.com        |
+| makeit.voto        | available | $19.99    | —             | 82             | 21     | 7      | name.com        |
 | pierogi.voto       | available | $19.99    | —             | 82             | 7      | 7      | name.com        |
 | stirup.voto        | available | $19.99    | —             | 82             | 3      | 7      | name.com        |
 | watches.voto       | available | $19.99    | —             | 84             | 19     | 7      | name.com        |
@@ -81,7 +81,7 @@ print(df.head())
 | jobs.voto          | premium   | $123.75   | —             | 79             | 42     | 4      | name.com        |
 | coins.voto         | available | $19.99    | —             | 56             | 41     | 5      | name.com        |
 | dont.voto          | premium   | $123.75   | —             | 42             | 18     | 4      | name.com        |
-| LongBeach.voto     | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap       |
+| LongBeach.voto     | premium   | $138.60   | $138.60       | 62             | 12     | 10     | namecheap       |
 | neuroscience.voto  | available | $19.99    | —             | 80             | 37     | 12     | name.com        |
 | getoutthevote.voto | premium   | $123.75   | —             | 70             | 2      | 16     | name.com        |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
