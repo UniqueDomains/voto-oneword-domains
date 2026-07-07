@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .voto one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,886 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,886 domains · **Median ask:** $26.31 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,886 domains · **Median ask:** $23.36 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/voto`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/voto`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VOTO one-word domain 
 
 ### Files
 
-- `voto.csv` — public CSV extract (1,000 rows)
-- `voto.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `voto.csv`, public CSV extract (1,000 rows)
+- `voto.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| girls.voto         | available | $19.99    | —             | 83             | 23     | 5      | name.com        |
-| WiFi.voto          | available | $86.98    | —             | 83             | 37     | 5      | namecheap       |
-| homes.voto         | available | $19.99    | —             | 86             | 34     | 5      | name.com        |
-| getup.voto         | available | $19.99    | —             | 82             | 15     | 6      | name.com        |
-| popup.voto         | available | $19.99    | —             | 84             | 28     | 6      | name.com        |
-| dogsit.voto        | available | $19.99    | —             | 96             | 2      | 6      | name.com        |
-| playin.voto        | available | $19.99    | —             | 80             | 10     | 7      | name.com        |
-| playon.voto        | available | $19.99    | —             | 80             | 14     | 7      | name.com        |
-| makeit.voto        | available | $19.99    | —             | 82             | 21     | 7      | name.com        |
-| pierogi.voto       | available | $19.99    | —             | 82             | 7      | 7      | name.com        |
-| stirup.voto        | available | $19.99    | —             | 82             | 3      | 7      | name.com        |
-| watches.voto       | available | $19.99    | —             | 84             | 19     | 7      | name.com        |
-| Books.voto         | available | $86.98    | —             | 52             | 49     | 5      | namecheap       |
-| cars.voto          | resell    | —         | —             | 66             | 47     | 4      | Spaceship, Inc. |
-| jobs.voto          | premium   | $123.75   | —             | 79             | 42     | 4      | name.com        |
-| coins.voto         | available | $19.99    | —             | 56             | 41     | 5      | name.com        |
-| dont.voto          | premium   | $123.75   | —             | 42             | 18     | 4      | name.com        |
-| LongBeach.voto     | premium   | $138.60   | $138.60       | 62             | 12     | 10     | namecheap       |
-| neuroscience.voto  | available | $19.99    | —             | 80             | 37     | 12     | name.com        |
-| getoutthevote.voto | premium   | $123.75   | —             | 70             | 2      | 16     | name.com        |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aid.voto    | available | $19.99    | —             | medium         | low    | 3      | name.com  |
+| big.voto    | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com  |
+| ala.voto    | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| one.voto    | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com  |
+| BJP.voto    | available | $19.99    | —             | medium         | low    | 3      | name.com  |
+| you.voto    | premium   | $123.75   | —             | high           | medium | 3      | name.com  |
+| CNN.voto    | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| blue.voto   | premium   | $123.75   | —             | high           | medium | 4      | name.com  |
+| feb.voto    | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| rock.voto   | premium   | $123.75   | —             | medium         | low    | 4      | name.com  |
+| fee.voto    | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| clerk.voto  | premium   | $123.75   | —             | medium         | low    | 5      | name.com  |
+| fit.voto    | available | $19.99    | —             | high           | medium | 3      | name.com  |
+| union.voto  | premium   | $625      | —             | high           | low    | 5      | name.com  |
+| gal.voto    | available | $19.99    | —             | medium         | low    | 3      | name.com  |
+| boston.voto | premium   | $123.75   | —             | high           | low    | 6      | name.com  |
+| get.voto    | available | $19.99    | —             | high           | medium | 3      | name.com  |
+| budget.voto | premium   | $123.75   | —             | high           | low    | 6      | name.com  |
+| hic.voto    | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| family.voto | premium   | $123.75   | —             | high           | medium | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .voto domains. The names span broad dictionary terms and simple brandable words, with examples such as tips.voto, Trex.voto, girls.voto, WiFi.voto, and finals.voto. For founders, the main question is whether the word stays clear and memorable when paired with .voto. For investors, the key is price discipline against a niche extension with uneven end-user depth. The median ask is 26.31, which keeps entry pricing modest, but resale evidence is not provided here. When comparing these domains, focus on word quality, category breadth, spelling clarity, and whether the extension strengthens or weakens the term.
+This selection includes 12,886 one-word domain names under the .voto extension, spanning everyday words like useit.voto, toneup.voto, and destination.voto to phrase-style names like fitthebill.voto and letitalone.voto. With a median ask near $23, .voto domains offer an affordable way to secure a short, one-word name before committing to renewal costs. Because .voto is a newer, non-mainstream extension, buyers should weigh brandability and audience recognition against price when comparing names within this list.
 
-- Prefer words that still read naturally with .voto
-- Use median ask 26.31 as a price reality check
-- Favor clean spelling such as homes, tips, or emoji
-- Treat niche-extension fit as the main risk factor
+- 12,886 one-word .voto domain names in this selection
+- Median ask near $23 across the set
+- Everyday words and short phrases, e.g., useit.voto, girls.voto
+- Non-mainstream TLD — weigh recognition against low entry cost
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
