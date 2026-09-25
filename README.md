@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .voto one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,896 domains · **Median ask:** $16.35 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/voto`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| feel.voto      | available | $19.99    | —             | high           | low    | 4      | name.com  |
-| something.voto | available | $19.99    | —             | high           | low    | 9      | name.com  |
-| fuck.voto      | available | $19.99    | —             | high           | high   | 4      | name.com  |
-| wrong.voto     | available | $19.99    | —             | high           | low    | 5      | name.com  |
-| count.voto     | available | $19.99    | —             | high           | low    | 5      | name.com  |
-| ada.voto       | available | $19.99    | —             | high           | medium | 3      | name.com  |
-| you.voto       | premium   | $123.75   | —             | high           | medium | 3      | name.com  |
-| aid.voto       | available | $19.99    | —             | high           | low    | 3      | name.com  |
-| rock.voto      | premium   | $123.75   | —             | high           | low    | 4      | name.com  |
-| ala.voto       | available | $19.99    | —             | high           | low    | 3      | name.com  |
-| clerk.voto     | premium   | $123.75   | —             | high           | low    | 5      | name.com  |
-| axe.voto       | available | $19.99    | —             | high           | low    | 3      | name.com  |
-| union.voto     | premium   | $625      | —             | high           | low    | 5      | name.com  |
-| bay.voto       | available | $11.98    | $86.98        | medium         | low    | 3      | namecheap |
-| boston.voto    | premium   | $123.75   | —             | high           | low    | 6      | name.com  |
-| bjp.voto       | available | $19.99    | —             | high           | low    | 3      | name.com  |
-| budget.voto    | premium   | $123.75   | —             | high           | low    | 6      | name.com  |
-| btw.voto       | available | $19.99    | —             | high           | low    | 3      | name.com  |
-| family.voto    | premium   | $123.75   | —             | high           | medium | 6      | name.com  |
-| bum.voto       | available | $11.98    | $86.98        | medium         | low    | 3      | namecheap |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| ada.voto    | available | $19.99    | —             | high           | medium | 3      | name.com     |
+| pay.voto    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC |
+| you.voto    | premium   | $123.75   | —             | high           | medium | 3      | name.com     |
+| aid.voto    | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| rock.voto   | premium   | $123.75   | —             | high           | low    | 4      | name.com     |
+| ala.voto    | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| your.voto   | premium   | $123.75   | —             | high           | medium | 4      | name.com     |
+| ape.voto    | available | $11.98    | $86.98        | high           | low    | 3      | namecheap    |
+| clerk.voto  | premium   | $123.75   | —             | high           | low    | 5      | name.com     |
+| ask.voto    | available | $19.99    | —             | high           | medium | 3      | name.com     |
+| issue.voto  | premium   | $123.75   | —             | high           | low    | 5      | name.com     |
+| ava.voto    | available | $19.99    | —             | high           | medium | 3      | name.com     |
+| union.voto  | premium   | $625      | —             | high           | low    | 5      | name.com     |
+| axe.voto    | available | $19.99    | —             | high           | low    | 3      | name.com     |
+| boston.voto | premium   | $123.75   | —             | high           | low    | 6      | name.com     |
+| azo.voto    | available | $11.98    | $86.98        | high           | low    | 3      | namecheap    |
+| budget.voto | premium   | $123.75   | —             | high           | low    | 6      | name.com     |
+| bag.voto    | available | $11.98    | $86.98        | high           | low    | 3      | namecheap    |
+| family.voto | premium   | $123.75   | —             | high           | medium | 6      | name.com     |
+| bay.voto    | available | $11.98    | $86.98        | high           | low    | 3      | namecheap    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTO One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTO One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
