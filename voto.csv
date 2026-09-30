@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-54932a1e-09ca-4c88-a510-04c16d0a8a6c,difficulty.voto,available,19.99,,high,low,10,name.com,,,
+54932a1e-09ca-4c88-a510-04c16d0a8a6c,difficulty.voto,available,10.55,55.93,high,low,10,spaceship,,,29/09/2026 14:54
 ed47e8f1-0d2d-4065-a7c9-98fb5adf8f0c,proclaim.voto,available,19.99,,high,low,8,name.com,,,
 1d4339a1-e637-47b4-b625-172844a5008e,gormless.voto,available,11.98,86.98,low,low,8,namecheap,,,18/08/2026 20:48
 8489532e-13cd-47ce-90f3-19fce39317eb,der.voto,available,10.81,56.13,medium,low,3,porkbun,,,28/09/2026 20:56
@@ -17,7 +17,6 @@ d60553e7-03e1-45a4-8c19-b13e892c137f,mainstream.voto,available,10.55,55.93,high,
 d4920942-8a39-4cdd-8977-20b3a05cecdd,anjou.voto,available,11.98,86.98,high,low,5,namecheap,,,19/09/2026 09:39
 23877751-8cfe-4713-9c1d-ead07f52ce38,alexandra.voto,available,11.98,86.98,medium,low,9,namecheap,,,27/09/2026 02:30
 faadab2a-8f55-4910-bf88-58e1f89430ad,aloes.voto,available,11.98,86.98,medium,low,5,namecheap,,,18/09/2026 13:07
-7c4d8118-ad68-41a8-95bc-9e714449c889,ohio.voto,available,,,high,low,4,,,,
 3ba6a1bf-c6dc-4fb1-b166-a8896ba3a747,defaulted.voto,available,11.98,86.98,low,low,9,namecheap,,,21/09/2026 07:28
 2d8dd4be-1b7b-45b2-b8fa-0854aee08d9f,doggedly.voto,available,11.98,86.98,medium,low,8,namecheap,,,14/09/2026 13:33
 106cce84-4cdc-4f78-954e-1c6a92e33578,zimbabwean.voto,available,11.98,86.98,high,low,10,namecheap,,,13/09/2026 15:19
@@ -27,20 +26,22 @@ d0e40f38-882e-4be5-b15f-c2837a2be8c4,leavitt.voto,available,10.81,56.13,medium,l
 cce42797-0c5e-4b79-b192-8bd4bd02a6af,shirt.voto,available,19.99,,high,low,5,name.com,,,
 6b0d720a-20fc-4430-8879-95c77135b15e,elmira.voto,available,10.55,55.93,medium,low,6,spaceship,,,28/09/2026 16:42
 003498b0-db66-453a-8a34-2d38bdcad927,directors.voto,available,10.92,58,medium,low,9,dynadot,,,28/09/2026 08:43
-c58e0c64-76f4-4ced-9c80-ecae0c76545b,rivers.voto,available,26.5,,medium,low,6,unstoppable,,,28/09/2026 08:05
-6598d617-b6b2-403f-a3a7-ce8bd593b199,couple.voto,available,19.99,,high,low,6,name.com,,,
+c58e0c64-76f4-4ced-9c80-ecae0c76545b,rivers.voto,available,26.5,,high,low,6,unstoppable,,,28/09/2026 08:05
+6598d617-b6b2-403f-a3a7-ce8bd593b199,couple.voto,available,10.55,55.93,high,low,6,spaceship,,,29/09/2026 11:48
 d9b77010-da6e-405c-be6e-ea208cfff400,conditions.voto,available,11.98,86.98,high,low,10,namecheap,,,28/09/2026 10:19
 515f1c02-4acd-4b04-873e-daf9ed5496f9,structurally.voto,available,11.98,86.98,medium,low,12,namecheap,,,17/09/2026 20:10
 20f143eb-2988-43c1-8bb5-5f5435d53e06,bitstock.voto,available,19.99,102.99,medium,low,8,name.com,,,23/09/2026 22:47
 6dfad1e4-5965-430e-8979-a3f41e052668,hardworking.voto,available,19.99,,high,low,11,name.com,,,
+f718abe9-e6d2-41de-b968-29d0e579070d,counterfeit.voto,available,11.98,86.98,high,low,11,namecheap,,,29/09/2026 08:25
 4f85581b-d345-47a5-a0e0-473057e360db,tunas.voto,available,11.98,86.98,medium,low,5,namecheap,,,19/09/2026 22:09
 65c39b42-9e2e-44b2-adc6-611b9d57f856,amaranth.voto,available,11.98,86.98,high,low,8,namecheap,,,18/09/2026 15:50
-2c176aad-c101-49d7-8ad8-ef54a93e3a43,pig.voto,available,19.99,,high,low,3,name.com,,,
+2c176aad-c101-49d7-8ad8-ef54a93e3a43,pig.voto,available,26.5,,high,low,3,unstoppable,,,29/09/2026 11:33
 de9c6da9-d86d-409b-bc0e-e6c289e6fb88,barrie.voto,available,11.98,86.98,medium,low,6,namecheap,,,22/09/2026 08:37
 045cb12d-557f-4c06-b42b-115238278e2a,bellows.voto,available,11.98,86.98,high,low,7,namecheap,,,23/09/2026 06:26
 582497d7-8c9c-4d4b-9982-66add1a1cd80,rican.voto,available,11.98,86.98,high,low,5,namecheap,,,25/09/2026 13:13
 d7ba17d3-0432-43e6-bf8d-fc7ea3c07aa9,untied.voto,available,11.98,86.98,high,low,6,namecheap,,,12/09/2026 05:00
 c10ddb70-3e4b-4395-a789-ed453b19a3a6,slender.voto,available,11.98,86.98,high,low,7,namecheap,,,24/08/2026 01:14
+4d43ceb7-6627-4fd3-9513-40d7f8460081,seduce.voto,available,10.55,55.93,high,low,6,spaceship,,,29/09/2026 14:16
 27acc1e5-1e6a-40b3-9eb8-fed089294c6a,convention.voto,available,11.98,86.98,high,low,10,namecheap,,,03/09/2026 21:13
 ca10d0f5-0ca3-48c3-8a83-25fea2f6dc2f,roxbury.voto,available,10.55,55.93,medium,low,7,spaceship,,,28/09/2026 12:20
 936c6211-fbcb-4b31-972d-0c04321cbe17,unyielding.voto,available,11.98,86.98,high,low,10,namecheap,,,14/08/2026 15:01
@@ -54,12 +55,15 @@ da86bf95-96fa-48ac-8efe-49a450183945,experimental.voto,available,19.99,,high,low
 78763cd4-8748-4e14-bc84-9cca9eb2d565,diode.voto,available,11.98,86.98,high,low,5,namecheap,,,24/09/2026 20:00
 0fd41a3d-b1f0-4068-bdfd-b6db405768ec,sedans.voto,available,19.99,102.99,medium,low,6,name.com,,,19/09/2026 22:27
 6b7dd8fb-85e2-4ce7-8906-756a9b22a46e,artist.voto,available,26.5,86.98,high,low,6,unstoppable,,,28/09/2026 12:11
+3c5b0a6a-b237-4085-9c8c-9a372a7fcd67,forman.voto,available,10.55,55.93,high,low,6,spaceship,,,29/09/2026 09:59
 9a305759-b645-4399-91f1-28cc29dca5ff,reef.voto,available,10.55,55.93,high,low,4,spaceship,,,28/09/2026 10:48
 351c371d-ce30-457a-b769-52eacb6f12f0,admire.voto,available,10.92,58,high,low,6,dynadot,,,28/09/2026 03:18
-1dd50e16-3962-4434-9665-9b9e9ad71098,week.voto,available,19.99,,high,low,4,name.com,,,
+942756a6-bc46-48f0-a9f3-3112660956c6,soyuz.voto,available,10.81,56.13,high,low,5,porkbun,,,29/09/2026 15:02
+1dd50e16-3962-4434-9665-9b9e9ad71098,week.voto,available,10.81,56.13,high,low,4,porkbun,,,29/09/2026 05:49
 c37c6087-b953-4330-9638-45716fae1d6d,nee.voto,available,11.98,86.98,medium,low,3,namecheap,,,03/09/2026 14:47
 5ae61d3a-e6ca-4668-896d-b1f52a107c8d,adorer.voto,available,11.98,86.98,high,low,6,namecheap,,,17/09/2026 09:45
-04704099-ffd7-4ba3-b2b5-3feb85366e75,unisexual.voto,available,11.98,86.98,medium,low,9,namecheap,,,12/09/2026 13:54
+04704099-ffd7-4ba3-b2b5-3feb85366e75,unisexual.voto,available,11.98,86.98,high,low,9,namecheap,,,12/09/2026 13:54
+aa230d2a-fb37-491d-a3c1-9c82615c47a6,insulation.voto,available,26.5,,high,low,10,unstoppable,,,30/09/2026 01:59
 214af47c-70e2-4e63-a03e-3dcc21c3dd54,pointed.voto,available,11.98,86.98,high,low,7,namecheap,,,08/09/2026 22:36
 b80dda80-c16b-4ff9-9364-f8313c9a2c28,specks.voto,available,11.98,86.98,medium,low,6,namecheap,,,20/09/2026 10:46
 05632db0-b58d-41ce-90c0-58b099782efb,sony.voto,available,,,high,medium,4,,,,
@@ -68,6 +72,7 @@ a31e4ae7-37c1-4f9d-8158-3f865b680219,creepy.voto,available,11.98,86.98,high,low,
 653e58f6-51dd-4ae3-8527-d632ded77c0d,tubby.voto,available,11.98,86.98,medium,low,5,namecheap,,,08/09/2026 22:29
 80edbfd8-71f6-4ad8-bb1b-285b336125b7,hecht.voto,available,11.98,86.98,high,low,5,namecheap,,,23/09/2026 07:20
 9b50558b-38a1-4d89-9989-ee48f083eeb2,chirping.voto,available,19.99,,high,low,8,name.com,,,
+42926ab4-6e9d-4359-b5fd-9397af0ce137,premiers.voto,available,10.55,55.93,medium,low,8,spaceship,,,29/09/2026 17:25
 c6028cb8-e8d9-4b3a-be6c-99c2d34c2ad4,fluky.voto,available,11.98,86.98,medium,low,5,namecheap,,,18/08/2026 09:19
 57054eb0-7a83-437f-ac2f-5912e93e4de6,bierce.voto,available,19.99,102.99,medium,low,6,name.com,,,18/09/2026 17:23
 d8910b72-2aba-45d3-9173-c4e7c8471168,sabin.voto,available,11.98,86.98,medium,low,5,namecheap,,,18/09/2026 02:37
@@ -85,26 +90,34 @@ c627058d-5bfe-4604-8753-9b8085175515,broccoli.voto,available,10.55,55.93,high,lo
 62f93e68-04de-412e-b21b-4886505ea1c3,becoming.voto,available,11.98,86.98,high,low,8,namecheap,,,09/08/2026 06:08
 9cd4a751-cb83-4dfc-9cee-3f045d0de934,bauhaus.voto,available,11.98,86.98,high,low,7,namecheap,,,22/09/2026 16:36
 1b13a2d2-9703-41f6-b629-adca2bdbf03c,anova.voto,available,11.98,86.98,high,low,5,namecheap,,,19/09/2026 01:59
-0f440fa0-17dc-4618-ad1f-700d580aa111,search.voto,available,19.99,,high,medium,6,name.com,,,
+0f440fa0-17dc-4618-ad1f-700d580aa111,search.voto,available,10.55,55.93,high,medium,6,spaceship,,,30/09/2026 03:20
 37cfa9f9-1c3e-47d4-9639-20dde9f4ef1d,focus.voto,available,11.98,86.98,high,medium,5,namecheap,,,19/09/2026 06:53
+f04e616f-66c3-4a96-8023-bd698efffde1,lowe.voto,available,26.5,,high,low,4,unstoppable,,,29/09/2026 15:01
 6f5ee7b2-045c-4028-9cda-014924395318,teenager.voto,available,11.98,86.98,high,low,8,namecheap,,,21/09/2026 19:08
 0c18f502-21f3-4317-b671-c5f885103dd8,traveler.voto,available,19.99,,high,low,8,name.com,,,
 651a861f-f83e-4e1e-a686-3b4acc2f7969,dives.voto,available,19.99,,high,low,5,name.com,,,
 56ad837d-525a-4462-aa9c-3f3acceac932,humoral.voto,available,11.98,86.98,medium,low,7,namecheap,,,21/08/2026 15:21
 2488f12f-b3e2-4fe0-868f-b494481e9719,flighty.voto,available,11.98,86.98,medium,low,7,namecheap,,,18/08/2026 08:11
 088402a7-5e91-441e-8ba7-b551e70ea798,tethered.voto,available,11.98,86.98,medium,low,8,namecheap,,,11/09/2026 12:10
+6d9b6739-26ca-4fab-a38f-6b39f2d82978,oran.voto,available,10.92,58,high,low,4,dynadot,,,29/09/2026 07:47
 b48d728e-22d3-4434-822a-7b7832387a7c,banquette.voto,available,11.98,86.98,medium,low,9,namecheap,,,22/09/2026 03:08
+1870bd70-fa37-43f0-a994-dfee72232da7,inscription.voto,available,11.98,86.98,high,low,11,namecheap,,,29/09/2026 15:57
 53652260-46c4-41eb-b346-05c9f29768ea,mutely.voto,available,11.98,86.98,medium,low,6,namecheap,,,15/09/2026 15:47
 fb13f0db-8335-4435-a79b-e5cf23756b7b,nancy.voto,available,11.98,86.98,medium,low,5,namecheap,,,25/09/2026 09:33
 6716a7d5-96e8-4caf-934e-8ab7bac69e32,unemployment.voto,premium,123.75,,high,low,12,name.com,,,
 03989227-aadb-4319-9bb3-174842704fc9,tried.voto,available,10.55,55.93,high,low,5,spaceship,,,28/09/2026 02:21
 36aff2de-27f0-4748-837b-a7f67cecd139,perpetual.voto,available,11.98,86.98,high,low,9,namecheap,,,
-0a8e2f74-75d2-4695-a5ef-12d98d41b784,mania.voto,available,19.99,,high,low,5,name.com,,,
+0a8e2f74-75d2-4695-a5ef-12d98d41b784,mania.voto,available,10.55,55.93,high,low,5,spaceship,,,29/09/2026 05:42
 486d2e1c-8b07-48f2-a7bc-f734770d3c46,hooks.voto,available,10.92,58,medium,low,5,dynadot,,,28/09/2026 10:05
 90fe46c2-68a3-4a28-86b6-ea0ddd65d9d7,outclassed.voto,available,11.98,86.98,medium,low,10,namecheap,,,04/09/2026 19:12
-791aba9f-5d1b-402c-8423-15693cfc711e,stockholm.voto,available,19.99,,high,low,9,name.com,,,
+791aba9f-5d1b-402c-8423-15693cfc711e,stockholm.voto,available,26.5,,high,low,9,unstoppable,,,29/09/2026 07:01
+07b78226-e5ef-4e31-81fb-13d11819b462,broderick.voto,available,26.5,,high,low,9,unstoppable,,,29/09/2026 21:41
 34d4fb87-2516-4609-a7c6-5997359f14da,floors.voto,available,11.98,86.98,high,low,6,namecheap,,,27/09/2026 22:02
 bf97c58e-b726-4158-8574-6d24e500e2f0,consumers.voto,available,26.5,,medium,low,9,unstoppable,,,29/09/2026 02:36
+7e6ecac7-b3b9-444e-99f1-8e4428209994,isolate.voto,available,10.55,55.93,high,low,7,spaceship,,,29/09/2026 08:24
+9f02b3ae-ed48-4e30-a41b-ab884116b806,ibadan.voto,available,10.55,55.93,medium,low,6,spaceship,,,30/09/2026 01:55
+13ca60a1-635a-41af-be36-83029dd4416d,chernobyl.voto,available,26.5,,medium,low,9,unstoppable,,,29/09/2026 11:54
+ef111e3b-a06d-43d7-8683-0f6d477060eb,convey.voto,available,26.5,,high,low,6,unstoppable,,,29/09/2026 06:20
 68464bfa-1a25-44b2-b8f8-907bc76b54e7,gnomish.voto,available,11.98,86.98,medium,low,7,namecheap,,,20/08/2026 15:45
 08d45447-2ba0-40ca-9395-e5a87474e1ae,matters.voto,available,11.98,86.98,medium,low,7,namecheap,,,25/09/2026 17:05
 67866cc9-5b73-43b2-a15f-112c130c38e9,created.voto,available,19.99,,high,low,7,name.com,,,
@@ -117,12 +130,13 @@ f57f5b55-9cbe-4a91-9920-f3baca422026,precious.voto,available,11.98,86.98,high,lo
 48d38248-b117-4e60-8d46-0822799a59d0,evelyn.voto,available,11.98,86.98,high,low,6,namecheap,,,25/09/2026 14:39
 7663fd95-9dc4-4d17-85bd-fa3ee325887a,tapes.voto,available,11.98,86.98,medium,low,5,namecheap,,,25/09/2026 21:42
 eef892b4-b0ea-4ff5-bdb1-288a1294fc4f,intangible.voto,available,11.98,86.98,high,low,10,namecheap,,,21/08/2026 21:42
-b90707ae-2880-4136-8118-ce3bf537517f,blizzard.voto,available,10.55,55.93,medium,low,8,spaceship,,,29/09/2026 00:11
+7dda48ed-c676-441d-8b61-ac51e6c31c1a,prized.voto,available,10.55,55.93,high,low,6,spaceship,,,30/09/2026 03:57
+b90707ae-2880-4136-8118-ce3bf537517f,blizzard.voto,available,10.55,55.93,high,low,8,spaceship,,,29/09/2026 00:11
 0fa1d2c0-473a-4d86-bacd-ba8e8de51ddd,auspices.voto,available,11.98,86.98,high,low,8,namecheap,,,17/09/2026 12:16
 504416cc-0322-4c43-9744-fc7a4abcf579,mouthwash.voto,available,19.99,,high,low,10,name.com,,,
 f11ed7b3-b34b-45f6-a728-ed2edc29ad4f,emotions.voto,available,11.98,86.98,medium,low,8,namecheap,,,27/09/2026 02:04
-65d80096-6688-4b60-be9f-d9e57752fd57,woodbine.voto,available,11.98,86.98,medium,low,8,namecheap,,,18/09/2026 20:11
-688b2d05-01e7-45ff-b03b-9cb99ada0f73,representing.voto,available,10.55,55.93,medium,low,12,spaceship,,,28/09/2026 11:27
+65d80096-6688-4b60-be9f-d9e57752fd57,woodbine.voto,available,11.98,86.98,high,low,8,namecheap,,,18/09/2026 20:11
+688b2d05-01e7-45ff-b03b-9cb99ada0f73,representing.voto,available,10.55,55.93,high,low,12,spaceship,,,28/09/2026 11:27
 19d719d3-ad5b-498c-b7bd-073268432d91,interior.voto,available,11.98,86.98,high,low,8,namecheap,,,25/09/2026 09:38
 7494a176-f2a5-4c40-aca6-70984f61734e,singular.voto,available,11.98,86.98,high,low,8,namecheap,,,13/08/2026 11:18
 96723585-b17d-4834-be1f-ee2ff7242792,veg.voto,available,19.99,,high,low,3,name.com,,,
@@ -130,6 +144,7 @@ f11ed7b3-b34b-45f6-a728-ed2edc29ad4f,emotions.voto,available,11.98,86.98,medium,
 e0779d21-82be-4446-b4c0-b25a6bf2d3e0,motley.voto,available,11.98,86.98,medium,low,6,namecheap,,,07/08/2026 07:29
 7ad7e611-4afe-4bf2-bd7f-4f840985913a,bjp.voto,available,19.99,,high,low,3,name.com,,,
 cb38ee5f-84ce-4566-a180-792d21e8aae0,rein.voto,available,19.99,,high,low,4,name.com,,,
+88194dbe-4b61-416b-8252-5788e2ab31a2,underserved.voto,available,26.5,,high,low,11,unstoppable,,,30/09/2026 03:54
 a527ae5b-dcc1-4bb1-a572-379efee6600b,plaguy.voto,available,11.98,86.98,medium,low,6,namecheap,,,
 785667b6-4d1b-4591-869c-1fd0623899f8,those.voto,available,19.99,,medium,low,5,name.com,,,
 5e577d8d-be58-47e8-acea-b13f7831e2dc,stylistic.voto,available,11.98,86.98,high,low,9,namecheap,,,10/09/2026 23:19
@@ -139,20 +154,22 @@ a527ae5b-dcc1-4bb1-a572-379efee6600b,plaguy.voto,available,11.98,86.98,medium,lo
 209e1a9c-cd11-4cbc-9e84-69b3205d536c,drip.voto,available,10.92,58,high,medium,4,dynadot,,,28/09/2026 18:59
 cb1584cc-78bb-4320-97d0-c34172fbd59d,striking.voto,available,11.98,86.98,high,low,8,namecheap,,,27/09/2026 07:25
 eea5d7e7-1ece-4eff-ac5a-4df6e0cdf708,toothless.voto,available,11.98,86.98,medium,low,9,namecheap,,,11/09/2026 17:15
-428f743c-393c-4ab2-b545-bfdcbb7c8e50,medication.voto,available,19.99,,high,low,10,name.com,,,
+428f743c-393c-4ab2-b545-bfdcbb7c8e50,medication.voto,available,26.5,,high,low,10,unstoppable,,,30/09/2026 04:14
 928b9942-2913-405a-b8f6-44cb46709c67,since.voto,available,19.99,,high,low,5,name.com,,,
-b1f74ef0-3837-448d-a975-dbf03680f3fc,twine.voto,available,19.99,,medium,low,5,name.com,,,
+b1f74ef0-3837-448d-a975-dbf03680f3fc,twine.voto,available,26.5,,high,low,5,unstoppable,,,30/09/2026 01:53
 cd3be086-14c7-4285-9062-9a41ba3f1c49,nickel.voto,available,11.98,86.98,high,low,6,namecheap,,,20/09/2026 22:42
+35af7d47-2431-4937-94ce-f78faf19f40d,zaragoza.voto,available,10.55,55.93,high,low,8,spaceship,,,29/09/2026 08:01
 72be4485-02f6-412d-8653-8e26e856438a,abnaki.voto,available,11.98,86.98,medium,low,6,namecheap,,,
-dbf40d3c-3756-4e75-849d-1eb3f47bf7d4,case.voto,available,19.99,,high,low,4,name.com,,,
+dbf40d3c-3756-4e75-849d-1eb3f47bf7d4,case.voto,available,10.55,55.93,high,low,4,spaceship,,,29/09/2026 07:33
 ef30719b-420b-495e-8808-0c1256a4d3c6,incestuous.voto,available,11.98,86.98,medium,low,10,namecheap,,,22/08/2026 01:12
 2b971ed8-991a-4e92-b3ae-b39ebdab2691,wilkes.voto,available,10.55,55.93,medium,low,6,spaceship,,,27/09/2026 12:29
 235d1887-182d-4469-b3ed-64f820d20c15,maybe.voto,available,11.98,86.98,high,low,5,namecheap,,,28/09/2026 16:19
 c7d72ce1-6e78-487c-be30-4d1792d6fa76,alfatah.voto,available,11.98,86.98,medium,low,8,namecheap,,,18/09/2026 00:22
+a7b5c8c6-a2a5-44fd-8468-cb430a7b763d,dimensional.voto,available,10.81,56.13,high,low,11,porkbun,,,30/09/2026 03:41
 6e36de1e-b4b8-4e32-b498-f05c063a7123,disappointed.voto,available,19.99,,medium,low,12,name.com,,,
 40961a5b-736e-4771-a335-f0cf8637e160,bowed.voto,available,11.98,86.98,medium,low,5,namecheap,,,06/08/2026 14:55
 6fa302b7-064f-4498-8704-934837660999,turtles.voto,available,10.81,56.13,medium,low,7,porkbun,,,28/09/2026 23:52
-67288bd9-6688-46a9-8c5b-a93f1780e699,length.voto,available,19.99,,high,low,6,name.com,,,
+67288bd9-6688-46a9-8c5b-a93f1780e699,length.voto,available,10.81,56.13,high,low,6,porkbun,,,30/09/2026 02:48
 f1a32444-f5aa-4bfe-88c2-3dbe0eccb037,treachery.voto,available,11.98,86.98,medium,low,9,namecheap,,,23/09/2026 11:23
 ddaa403f-f7d9-4261-96fb-d11dee416a9e,demesne.voto,available,11.98,86.98,medium,low,7,namecheap,,,17/09/2026 02:57
 1f73cb4a-d31b-41cd-9ff5-a58b609e00ae,proved.voto,available,11.98,86.98,high,low,6,namecheap,,,27/09/2026 07:48
@@ -160,28 +177,33 @@ ddaa403f-f7d9-4261-96fb-d11dee416a9e,demesne.voto,available,11.98,86.98,medium,l
 fae80b6d-8104-49ba-8638-3bb746c75767,autotelic.voto,available,11.98,86.98,high,low,9,namecheap,,,07/08/2026 21:08
 4cb26632-c00a-4c00-b938-0867a557891f,effects.voto,available,11.98,86.98,high,low,7,namecheap,,,27/09/2026 03:49
 d4c27a36-7a86-436c-a0de-2ba1eea0eaea,werewolves.voto,available,11.98,86.98,medium,low,10,namecheap,,,19/09/2026 01:01
-00541349-8987-4840-8420-bc10755c4c37,gratitude.voto,available,19.99,,high,low,9,name.com,,,
-798e2ba2-00b3-464a-9519-daf01dcc01b1,corbin.voto,available,10.55,55.93,medium,low,6,spaceship,,,28/09/2026 07:42
+00541349-8987-4840-8420-bc10755c4c37,gratitude.voto,available,11.98,86.98,high,low,9,namecheap,,,29/09/2026 21:31
+798e2ba2-00b3-464a-9519-daf01dcc01b1,corbin.voto,available,10.55,55.93,high,low,6,spaceship,,,28/09/2026 07:42
 272da2da-11f7-4f7b-96fd-7c5296bc18fe,evil.voto,available,11.98,86.98,high,medium,4,namecheap,,,24/09/2026 15:41
 e9827f25-11a4-4085-a96b-56b818122259,airwoman.voto,available,11.98,86.98,medium,low,8,namecheap,,,17/09/2026 23:25
 7b2e2c35-f855-4132-ac37-9498e3e4a442,harriman.voto,available,11.98,86.98,medium,low,8,namecheap,,,21/09/2026 09:11
 3f85ad6c-aaaf-4fe1-aabf-e1a16392efad,older.voto,available,11.98,86.98,high,low,5,namecheap,,,21/09/2026 22:32
-a8737f79-6dc0-4927-b30a-a1795002ce18,restraint.voto,available,10.55,55.93,medium,low,9,spaceship,,,28/09/2026 18:42
+a8737f79-6dc0-4927-b30a-a1795002ce18,restraint.voto,available,10.55,55.93,high,low,9,spaceship,,,28/09/2026 18:42
 b0290641-4638-49ed-8780-154c9416702a,yoruba.voto,available,11.98,86.98,high,low,6,namecheap,,,18/09/2026 00:15
 c374aa60-f731-4671-97eb-cc3efc8b5401,kelvin.voto,available,11.98,86.98,high,low,6,namecheap,,,22/08/2026 15:02
 1f5850dd-cd62-4701-bd98-fb6f71ee9cc2,libby.voto,available,10.55,55.93,high,low,5,spaceship,,,28/09/2026 02:15
-12c55bf4-4248-46bf-879c-fadf2f64efba,duly.voto,available,11.98,86.98,medium,low,4,namecheap,,,14/09/2026 14:47
+12c55bf4-4248-46bf-879c-fadf2f64efba,duly.voto,available,11.98,86.98,high,low,4,namecheap,,,14/09/2026 14:47
+b7be2a14-7ff1-427a-bffa-4dbf83731632,clerks.voto,available,10.55,55.93,medium,low,6,spaceship,,,29/09/2026 23:28
 b30f56ba-6ff3-4256-9d48-095594c99403,yearningly.voto,available,11.98,86.98,medium,low,10,namecheap,,,15/09/2026 12:56
 38624b03-a5e3-4466-9a62-1ca1aca98ade,xcii.voto,available,11.98,86.98,medium,low,4,namecheap,,,
+5328a145-21e6-4c2a-b7b8-f2667e1b0980,astronomical.voto,available,11.98,86.98,high,low,12,namecheap,,,29/09/2026 14:28
 212dc1b2-9906-4380-8b97-d8288d53cd4a,arteria.voto,available,11.98,86.98,high,low,7,namecheap,,,20/09/2026 10:30
 a07a626e-18aa-4eed-8d22-7edb82cbe7f3,unassuming.voto,available,10.55,55.93,high,low,10,spaceship,,,27/09/2026 13:26
-f54f21d2-39d1-49ad-aa9c-a95cf96aa8ed,kilometre.voto,available,19.99,,high,low,9,name.com,,,
+0e10cc6d-9c5f-425b-a76d-658f990b4254,ancona.voto,available,26.5,,high,low,6,unstoppable,,,30/09/2026 03:22
+f54f21d2-39d1-49ad-aa9c-a95cf96aa8ed,kilometre.voto,available,10.81,56.13,high,low,9,porkbun,,,30/09/2026 01:35
 07d9bcbb-0604-4106-bec6-6189c3d03601,multiplex.voto,available,11.98,86.98,high,low,9,namecheap,,,24/08/2026 15:08
 9fc62dd6-18d0-45b0-b3d9-1c1f302be68e,aberdeen.voto,premium,128.7,128.7,high,low,8,namecheap,,,16/09/2026 15:10
 65632274-432d-4ab8-8b40-5e6f097e57d2,absorption.voto,available,11.98,86.98,high,low,10,namecheap,,,16/09/2026 18:19
-cbb2e3d8-4463-4cbb-b595-0258bfb850ac,lav.voto,available,11.98,86.98,medium,low,3,namecheap,,,09/09/2026 02:16
+a1094aa4-6a49-42ef-9565-586865ba0fea,byers.voto,available,10.55,55.93,medium,low,5,spaceship,,,29/09/2026 09:57
+cbb2e3d8-4463-4cbb-b595-0258bfb850ac,lav.voto,available,11.98,86.98,high,low,3,namecheap,,,09/09/2026 02:16
+de841351-d88b-4d30-95fc-6a1796e325a3,yuan.voto,available,10.81,56.13,high,low,4,porkbun,,,29/09/2026 07:27
 c9562ebb-ce76-46b9-9db9-984d189cde05,leiden.voto,available,11.98,86.98,high,low,6,namecheap,,,25/09/2026 23:25
-a641c91d-bc1b-4d20-aa6e-ae957d0acc09,unsteady.voto,available,11.98,86.98,medium,low,8,namecheap,,,12/09/2026 10:21
+a641c91d-bc1b-4d20-aa6e-ae957d0acc09,unsteady.voto,available,11.98,86.98,high,low,8,namecheap,,,12/09/2026 10:21
 61b99fc8-ee9c-4ffd-aa25-5cddddf12f6f,susie.voto,available,26.5,,medium,low,5,unstoppable,,,28/09/2026 16:25
 0b031e2c-5cd5-4e14-ad46-0d78448a5f4c,twits.voto,available,11.98,86.98,low,low,5,namecheap,,,21/09/2026 06:16
 b2e70999-f435-4226-8db6-f7dc50a662d3,ackee.voto,available,11.98,86.98,medium,low,5,namecheap,,,17/09/2026 01:52
@@ -191,7 +213,7 @@ c426f0f4-4b8a-4c83-bdc8-1222fe999403,silly.voto,available,11.98,86.98,high,low,5
 c89dfb79-a1ce-419a-bd27-dce0a9bafbd2,christlike.voto,available,11.98,86.98,high,low,10,namecheap,,,12/08/2026 07:19
 2844b912-3921-4144-9128-9b3ba0068d71,managed.voto,available,26.5,86.98,high,low,7,unstoppable,,,28/09/2026 04:48
 c0be9fc6-da14-4f96-9bba-383c43c1d5b2,blindfold.voto,available,11.98,86.98,high,low,9,namecheap,,,10/08/2026 14:26
-c9e6a3f2-92a7-4127-81cc-785f10d5cdb9,crinkle.voto,available,11.98,86.98,medium,low,7,namecheap,,,13/08/2026 07:16
+c9e6a3f2-92a7-4127-81cc-785f10d5cdb9,crinkle.voto,available,11.98,86.98,high,low,7,namecheap,,,13/08/2026 07:16
 6e298019-35ba-4857-8611-005bd4c0dd7a,hostility.voto,available,11.98,86.98,medium,low,9,namecheap,,,19/09/2026 12:25
 4fa2e9f0-a426-4a5d-9d7e-86e2e8fc86f2,neurotic.voto,available,11.98,86.98,medium,low,8,namecheap,,,03/09/2026 16:23
 43168570-b9ea-49c1-93aa-06fd7b395d30,somme.voto,available,11.98,86.98,medium,low,5,namecheap,,,22/09/2026 16:09
@@ -201,19 +223,21 @@ a7395ffd-05c5-4a95-8ad2-ee820dee7629,athenaeum.voto,available,11.98,86.98,high,l
 f7d52fd8-f030-4cd8-888f-d1a2df5dfe72,integrated.voto,available,11.98,86.98,high,low,10,namecheap,,,25/09/2026 08:05
 0a2d4eb3-39a8-4827-a5eb-97881f812deb,breezy.voto,available,11.98,86.98,high,low,6,namecheap,,,22/09/2026 22:40
 79146cdb-1365-4d8e-bcd7-416009b23b7c,nfl.voto,available,11.98,86.98,high,low,3,namecheap,,,26/09/2026 03:28
+f2e98313-2ce5-43ad-b780-f7a514b88b86,mubarak.voto,available,10.55,55.93,medium,low,7,spaceship,,,29/09/2026 13:04
 56ec6de7-b7dd-423d-be5c-53efe5d7f9f9,barbecued.voto,available,11.98,86.98,medium,low,9,namecheap,,,08/08/2026 16:25
 c5514bae-a959-461b-88d5-cc7d3a05b335,nam.voto,available,10.55,55.93,high,low,3,spaceship,,,28/09/2026 16:26
 be5171a5-2ade-4250-8f38-6720c00f1564,makeovers.voto,available,11.98,86.98,medium,low,9,namecheap,,,21/09/2026 08:55
 6fc2d180-1eb3-49e7-a752-d25db9fb8f01,altered.voto,available,11.98,86.98,high,low,7,namecheap,,,
 fd4ad319-f377-4cc1-b943-01acaddf88d5,collect.voto,available,11.98,86.98,high,low,7,namecheap,,,12/08/2026 15:03
 f843ca54-7f12-480d-8dde-48e2523a5564,graveyard.voto,available,10.55,55.93,high,low,9,spaceship,,,28/09/2026 01:14
+b4509d9e-dd7b-4d46-b8a0-e99bcfd858ad,akira.voto,available,11.98,86.98,high,low,5,namecheap,,,29/09/2026 09:49
 a0d47ca8-5696-46f1-b315-80c3142d03fd,julio.voto,available,10.81,56.13,high,low,5,porkbun,,,29/09/2026 03:04
 71b2d644-bb3c-466a-a89f-ee6134479f85,nakedly.voto,available,11.98,86.98,medium,low,7,namecheap,,,15/09/2026 16:02
 6b098662-1a83-407e-ad18-32a5b9b223a3,cephalopod.voto,available,11.98,86.98,medium,low,10,namecheap,,,12/08/2026 00:21
 fb11bb4d-458a-4b0a-a00b-5ddce3191dbe,barbara.voto,available,11.98,86.98,high,low,7,namecheap,,,25/09/2026 11:55
 e02ebab3-fce2-4dc3-9ff0-58f82778e0be,anesthesia.voto,available,26.5,,high,low,10,unstoppable,,,28/09/2026 21:08
 63a6b619-c3d4-4fbe-8d75-02dd2429fa04,refreshed.voto,available,11.98,86.98,high,low,9,namecheap,,,25/09/2026 11:08
-60cdd93d-7172-427b-b3d0-686d29ac8ce8,pentagonal.voto,available,11.98,86.98,medium,low,10,namecheap,,,08/09/2026 15:00
+60cdd93d-7172-427b-b3d0-686d29ac8ce8,pentagonal.voto,available,11.98,86.98,high,low,10,namecheap,,,08/09/2026 15:00
 11bdb9ef-717a-4561-86bb-0a1f445eb01f,cats.voto,available,11.98,86.98,high,low,4,namecheap,,,17/09/2026 10:29
 46e62c10-e1f7-4057-a3be-0c39af718ac5,unevenly.voto,available,11.98,86.98,medium,low,8,namecheap,,,15/09/2026 22:30
 503b5c5d-656d-4147-b14a-b76588f67dc3,gamba.voto,available,11.98,86.98,medium,low,5,namecheap,,,22/09/2026 11:54
@@ -225,45 +249,54 @@ cfe000cc-93b3-415b-aa42-2aeeba7ea9b2,recalled.voto,available,11.98,86.98,medium,
 a44f9691-2b1a-49b2-a2ba-fcc06961c999,bits.voto,available,19.99,,high,low,4,name.com,,,
 e94fe5ba-0f8d-489b-9877-a4b1f3ee53e2,takeover.voto,available,10.55,55.93,high,low,8,spaceship,,,28/09/2026 18:48
 46116e66-0467-4881-b2dd-c730f301d724,oracular.voto,available,11.98,86.98,medium,low,8,namecheap,,,04/09/2026 17:12
+6e2a13e6-b559-4f2e-a972-018a834b4747,imitate.voto,available,10.55,55.93,high,low,7,spaceship,,,29/09/2026 14:14
 ac854ebc-887c-48da-b7f3-654ec6304d4a,blare.voto,available,11.98,86.98,medium,low,5,namecheap,,,10/08/2026 13:12
 86c82b71-f0e2-4da9-bf6a-d31534ef7a0b,security.voto,available,11.98,86.98,high,medium,8,namecheap,,,28/09/2026 19:47
 81c7fb49-4dca-4371-bbc1-376d4c682a08,offenses.voto,available,11.98,86.98,low,low,8,namecheap,,,20/09/2026 10:35
 27d7c024-9254-42fc-bf52-2651d356da52,lighter.voto,available,11.98,86.98,high,low,7,namecheap,,,22/09/2026 05:44
-48c986b4-6f25-449b-af89-8e11fe5655b8,nucleonics.voto,available,11.98,86.98,medium,low,10,namecheap,,,21/09/2026 00:14
+48c986b4-6f25-449b-af89-8e11fe5655b8,nucleonics.voto,available,11.98,86.98,high,low,10,namecheap,,,21/09/2026 00:14
 21f12405-43ea-45bb-a48b-39a97aaee188,involved.voto,available,11.98,86.98,high,low,8,namecheap,,,25/09/2026 11:16
 2359a7c6-769f-4c04-9be2-d2bc58a4f566,divorced.voto,available,11.98,86.98,medium,low,8,namecheap,,,14/08/2026 14:01
 52521b8f-6bd4-4aeb-aa0d-117c62f38f52,cytolytic.voto,available,19.99,102.99,medium,low,9,name.com,,,13/08/2026 14:42
 d8fac0f5-4ff5-4d1d-b7ad-86437d656b92,clxv.voto,available,11.98,86.98,medium,low,4,namecheap,,,
-7bdc53d9-48d2-4982-9701-c6d03fbd0772,gao.voto,available,11.98,86.98,medium,low,3,namecheap,,,25/09/2026 06:16
+7bdc53d9-48d2-4982-9701-c6d03fbd0772,gao.voto,available,11.98,86.98,high,low,3,namecheap,,,25/09/2026 06:16
 74fbdd12-bf54-473b-8634-ff91c5daa36b,medially.voto,available,11.98,86.98,medium,low,8,namecheap,,,15/09/2026 13:54
 a854dc01-5895-4064-9b73-99a5647497c0,convincing.voto,available,11.98,86.98,high,low,10,namecheap,,,23/09/2026 22:56
 516a6f50-b62e-42ee-8e9d-0b5ab7c4cadc,graceful.voto,available,11.98,86.98,high,low,8,namecheap,,,20/08/2026 17:25
+fd963aae-1c15-4d7f-9106-ee8c6205bb4b,brice.voto,available,26.5,,medium,low,5,unstoppable,,,29/09/2026 14:56
 141f07eb-6563-4c1b-8335-039f12c8979a,discretion.voto,available,11.98,86.98,high,low,10,namecheap,,,24/09/2026 15:03
 41440212-deb6-4805-9d3c-e9dbec323d6d,uveal.voto,available,11.98,86.98,medium,low,5,namecheap,,,13/09/2026 00:22
+31df2054-612e-49b4-89f9-04abcf1ed362,karnataka.voto,available,10.55,55.93,high,low,9,spaceship,,,29/09/2026 19:27
+a0baa8e4-46a2-43f1-9296-411e75fec444,flushing.voto,available,26.5,,medium,low,8,unstoppable,,,29/09/2026 10:01
 2663fe3c-5211-4dda-9d2e-475763b9fe82,garbage.voto,available,11.98,86.98,high,low,7,namecheap,,,25/09/2026 00:12
 75d20bb2-2c37-4cbb-927d-90ac5591e20f,synergetic.voto,available,11.98,86.98,high,low,10,namecheap,,,11/09/2026 06:25
 96911e51-9b0c-46bf-8fdd-d44d9e128161,emoji.voto,available,19.99,,high,low,5,name.com,,,
 d60d2a7c-3eee-4fa1-b10a-e39faa51f5e8,eldritch.voto,available,11.98,86.98,medium,low,8,namecheap,,,16/08/2026 02:21
 f0e8ef97-dd2a-4eb5-8882-ef743dbb8dc3,cycloidal.voto,available,19.99,102.99,medium,low,9,name.com,,,13/08/2026 13:40
 82368d36-ace2-4059-a230-92382d12576b,acquiring.voto,available,11.98,86.98,high,low,9,namecheap,,,17/09/2026 02:42
-d4304fca-a08a-4633-80ba-14336104b26c,harmony.voto,available,19.99,,high,low,7,name.com,,,
+d4304fca-a08a-4633-80ba-14336104b26c,harmony.voto,available,10.55,55.93,high,medium,7,spaceship,,,29/09/2026 10:31
 d4fa1488-dcba-4f8d-9dfa-258af3a7952c,chestnut.voto,available,11.98,86.98,high,low,8,namecheap,,,23/09/2026 14:04
+82f563bf-bb7e-41ca-8e37-01a9e3221de2,stature.voto,available,26.5,,high,low,7,unstoppable,,,29/09/2026 08:08
+371b7b2d-a9b3-48ec-84e7-d460a0334d60,hana.voto,available,26.5,,high,low,4,unstoppable,,,29/09/2026 22:11
 ca3c08b9-d94c-4f90-8057-db600de32de5,silently.voto,available,11.98,86.98,medium,low,8,namecheap,,,15/09/2026 15:52
 be6916c1-0c13-49a3-a5a5-c7a73e45c827,kosovo.voto,available,11.98,86.98,high,low,6,namecheap,,,25/09/2026 23:25
 6b18379d-5edc-44bf-9014-a74641bb9faa,unparallel.voto,available,11.98,86.98,medium,low,10,namecheap,,,12/09/2026 16:27
 58c5322a-4805-457e-84c9-981b385b895f,louse.voto,available,11.98,86.98,medium,low,5,namecheap,,,23/09/2026 20:00
 3b9c7692-323a-4d95-8876-7b43327c86cc,sixer.voto,available,11.98,86.98,medium,low,5,namecheap,,,
-a905aab7-decb-438b-9de2-c2332fe65321,sneeze.voto,available,19.99,,medium,low,6,name.com,,,
+a905aab7-decb-438b-9de2-c2332fe65321,sneeze.voto,available,19.99,,high,low,6,name.com,,,
 1596fbe1-56fa-42d9-8bb6-48b4decf9f85,famously.voto,available,11.98,86.98,high,low,8,namecheap,,,14/09/2026 16:46
 d71d39a6-5be8-4892-b2b5-5565f04230aa,cologne.voto,available,11.98,86.98,high,low,7,namecheap,,,24/09/2026 16:20
 1c06addd-7962-446f-83ac-a587ca7bd88e,trooper.voto,available,11.98,86.98,high,low,7,namecheap,,,29/09/2026 00:23
 975075aa-e480-4762-ad0b-7c2e5707416c,wastebasket.voto,available,19.99,,high,low,11,name.com,,,
+d0f804a9-da30-4f57-94de-2fd822dc4d45,yamaguchi.voto,available,26.5,,medium,low,9,unstoppable,,,29/09/2026 23:46
 5638c534-7cf8-4b55-a52d-882447320213,tablets.voto,available,11.98,86.98,high,low,7,namecheap,,,18/09/2026 15:46
 8306f8d1-5bc0-4678-80d9-392658cd60a0,jokes.voto,available,11.98,86.98,high,low,5,namecheap,,,25/09/2026 11:35
-387c0c6d-a0cc-4830-9bc4-e3ba11085201,ugandan.voto,available,11.98,86.98,medium,low,7,namecheap,,,11/09/2026 22:40
+e680b6f2-e0e0-40d4-be8e-0abaa98ba240,litigation.voto,available,11.98,86.98,high,low,10,namecheap,,,30/09/2026 02:06
+387c0c6d-a0cc-4830-9bc4-e3ba11085201,ugandan.voto,available,11.98,86.98,high,low,7,namecheap,,,11/09/2026 22:40
 19c4ecbc-08be-4d5b-a8e0-74ba374c3404,allison.voto,available,11.98,86.98,medium,low,7,namecheap,,,25/09/2026 17:48
 d9d20a64-cdda-446d-93ee-428836ee48fe,aroused.voto,available,11.98,86.98,high,low,7,namecheap,,,
 e86cb88a-bd28-4d78-9fc3-59b125ad66c3,grandiose.voto,available,11.98,86.98,high,low,9,namecheap,,,20/08/2026 17:58
+6f4c9646-0529-4675-998b-8272c500e89d,rbi.voto,available,10.92,58,high,low,3,dynadot,,,29/09/2026 07:55
 dc0b2ec3-176f-44cb-a827-ed22f28d9c87,joker.voto,available,10.55,55.93,high,low,5,spaceship,,,28/09/2026 19:34
 218e0451-f065-4b15-81fb-c6472b4db0cf,charmed.voto,available,11.98,86.98,high,low,7,namecheap,,,09/08/2026 09:57
 a19c6d03-6486-4c98-a079-9c8bc2663e7b,resurgent.voto,available,11.98,86.98,high,low,9,namecheap,,,09/09/2026 13:53
@@ -273,11 +306,12 @@ dd4b091c-c74c-469a-a326-ab8b822d3941,attendance.voto,available,11.98,86.98,high,
 21b4227e-c848-4e43-b0db-ec7ba0a3f13c,mandioca.voto,available,11.98,86.98,medium,low,8,namecheap,,,23/09/2026 22:54
 54b09adf-d822-4c81-ba5f-fecfc69ce313,goodwin.voto,available,19.99,,high,low,7,name.com,,,
 6351b9a9-1c06-46d5-8bd3-13ee8b58e30a,cupidity.voto,available,11.98,86.98,medium,low,8,namecheap,,,21/09/2026 08:48
-02dcacaa-74d5-44a1-b205-bcbc2fb7f948,devise.voto,available,19.99,,high,low,6,name.com,,,
+02dcacaa-74d5-44a1-b205-bcbc2fb7f948,devise.voto,available,26.5,,high,low,6,unstoppable,,,29/09/2026 14:42
 09d7f082-befe-4f2a-b95f-4e8483006c6a,biennial.voto,available,11.98,86.98,high,low,8,namecheap,,,09/08/2026 19:52
 02d094c5-1428-4e8f-9f46-a950a48d53ad,astern.voto,available,11.98,86.98,medium,low,6,namecheap,,,
 ae72744c-30cb-453e-9ff8-7688d19df601,wilderness.voto,available,10.92,58,high,low,10,dynadot,,,28/09/2026 15:33
 5302bb32-e52a-4a36-8fb5-0762455eef80,address.voto,available,10.55,55.93,high,low,7,spaceship,,,28/09/2026 06:48
+1b77e8d4-9c03-4858-a8a0-7304b19dd74d,ftp.voto,available,11.98,86.98,high,low,3,namecheap,,,30/09/2026 01:37
 03309b38-0674-4df0-8245-fdc92f6b1480,gradable.voto,available,11.98,86.98,medium,low,8,namecheap,,,08/09/2026 03:31
 180c2a14-b9bd-4bf5-a8ea-56e7a47de07a,unreadable.voto,available,11.98,86.98,medium,low,10,namecheap,,,22/08/2026 02:25
 710ca666-961e-4f1f-b226-cd871df4173e,malformed.voto,available,11.98,86.98,medium,low,9,namecheap,,,13/08/2026 23:43
@@ -285,14 +319,16 @@ ae72744c-30cb-453e-9ff8-7688d19df601,wilderness.voto,available,10.92,58,high,low
 4b1bd159-4d36-4f5b-95b6-bf97086ccea0,academic.voto,available,11.98,86.98,high,low,8,namecheap,,,21/09/2026 15:21
 38c996a3-68d5-42ca-8fdc-1dd2cc27034a,rider.voto,available,19.99,,high,low,5,name.com,,,
 6a32115e-c63e-4824-8de1-98aaed44bbb9,evidenced.voto,available,11.98,86.98,high,low,9,namecheap,,,17/08/2026 15:00
-c434f4cd-7ee9-4ecd-b7df-a55d05ca0348,bending.voto,available,11.98,86.98,medium,low,7,namecheap,,,23/09/2026 07:44
+0a41996b-c26f-49dc-bc83-09a7a972236a,sinatra.voto,available,26.5,,high,low,7,unstoppable,,,29/09/2026 18:57
+c434f4cd-7ee9-4ecd-b7df-a55d05ca0348,bending.voto,available,11.98,86.98,high,low,7,namecheap,,,23/09/2026 07:44
 0ff16f1e-fb4f-458d-a4d2-6197561ced86,ataturk.voto,available,11.98,86.98,high,low,7,namecheap,,,20/09/2026 19:44
-c276c211-cfda-4fdf-a883-85b1df90d51d,detention.voto,available,10.55,55.93,medium,low,9,spaceship,,,27/09/2026 12:53
+36b4b6ae-9498-4ede-926d-8df2cd345c6e,breckinridge.voto,available,10.55,55.93,medium,low,12,spaceship,,,29/09/2026 15:54
+c276c211-cfda-4fdf-a883-85b1df90d51d,detention.voto,available,10.55,55.93,high,low,9,spaceship,,,27/09/2026 12:53
 da62d5e7-aea6-4c4f-9ea5-fe6c49a9bdbc,shy.voto,available,10.55,55.93,high,low,3,spaceship,,,27/09/2026 21:35
 5e71855e-bea3-4477-ab41-66979710cea7,indecorous.voto,available,11.98,86.98,medium,low,10,namecheap,,,22/08/2026 02:18
 ed487a8c-4787-4e88-af62-fffd5dd36af3,rewards.voto,available,26.5,86.98,high,low,7,unstoppable,,,28/09/2026 08:14
 6d4dac08-e90f-4b32-af61-ab9451f03ff1,abies.voto,available,11.98,86.98,high,low,5,namecheap,,,16/09/2026 15:38
-d2db9c22-5397-4eb1-b131-9ebd4481d676,holder.voto,available,19.99,,high,low,6,name.com,,,
+d2db9c22-5397-4eb1-b131-9ebd4481d676,holder.voto,available,10.55,55.93,high,low,6,spaceship,,,29/09/2026 22:53
 c6e99c22-620d-4b32-956b-c8cf93cb4340,norris.voto,available,11.98,86.98,high,low,6,namecheap,,,23/09/2026 08:18
 d46cbb49-8c0a-4e9b-afd7-d13032a62528,avowal.voto,available,19.99,102.99,medium,low,6,name.com,,,17/09/2026 14:26
 91246c22-d0c1-45a5-ba99-45ea700d4343,verminous.voto,available,11.98,86.98,medium,low,9,namecheap,,,13/09/2026 04:05
@@ -300,29 +336,31 @@ d46cbb49-8c0a-4e9b-afd7-d13032a62528,avowal.voto,available,19.99,102.99,medium,l
 b025f56f-7ce8-4a20-bc84-50bd17f45bcf,postoffice.voto,available,19.99,,high,low,11,name.com,,,
 39bc9897-6cce-4e4e-88a4-3e6412ebacb2,input.voto,available,11.98,86.98,high,low,5,namecheap,,,19/09/2026 11:49
 fb28ffa2-5016-43b2-9892-c4332cb66bba,scatty.voto,available,11.98,86.98,medium,low,6,namecheap,,,
+19dbc00b-ae41-47b8-a0db-865f806ffe7a,eustace.voto,available,10.55,55.93,medium,low,7,spaceship,,,29/09/2026 15:27
 c8e46723-373d-4fe4-a07e-ecfe85d3a85e,bridge.voto,available,26.5,,high,medium,6,unstoppable,,,29/09/2026 04:05
 d4dbe509-a927-4c31-ad04-e702d7d2c569,comfy.voto,available,11.98,86.98,high,low,5,namecheap,,,23/09/2026 15:10
-6bea0ec0-ad1e-4f4b-b31f-8ef089c008b2,fridge.voto,available,19.99,,high,low,6,name.com,,,
+6bea0ec0-ad1e-4f4b-b31f-8ef089c008b2,fridge.voto,available,10.55,55.93,high,low,6,spaceship,,,29/09/2026 17:57
 1675e180-7ff4-4523-aae2-66a489f7c461,fiscal.voto,available,11.98,86.98,high,low,6,namecheap,,,19/09/2026 10:22
 59d47c97-f1c0-4b62-97f3-e16da3ddc0c2,nicolas.voto,available,11.98,86.98,high,low,7,namecheap,,,25/09/2026 13:18
 48d4250b-4544-4135-b663-714bc688f94a,adamantine.voto,available,11.98,86.98,medium,low,10,namecheap,,,
 15f96c91-d896-418c-820f-d1dbc6ebc9df,uncharged.voto,available,11.98,86.98,high,low,9,namecheap,,,12/09/2026 05:06
 846f992e-a4ec-4f06-8b08-c9f54137bb1f,fluency.voto,available,11.98,86.98,high,low,7,namecheap,,,20/09/2026 11:19
-0fbe055d-e00d-41f8-8304-7719cbc047b8,rebellious.voto,available,11.98,86.98,medium,low,10,namecheap,,,14/08/2026 09:25
+0fbe055d-e00d-41f8-8304-7719cbc047b8,rebellious.voto,available,11.98,86.98,high,low,10,namecheap,,,14/08/2026 09:25
 2cb19921-db9e-409e-854d-2e642a375861,anatomical.voto,available,11.98,86.98,medium,low,10,namecheap,,,
 234fb5fd-f5cd-4613-9148-a38ca0a03c5b,prepared.voto,available,11.98,86.98,high,low,8,namecheap,,,24/09/2026 11:20
-613aface-e1eb-4447-9b99-4ef60d40f6bd,monterrey.voto,available,10.81,56.13,medium,low,9,porkbun,,,28/09/2026 14:54
-dc462628-ff53-4fd4-a7bb-6ff6156ee886,destiny.voto,available,19.99,,high,low,7,name.com,,,
+613aface-e1eb-4447-9b99-4ef60d40f6bd,monterrey.voto,available,10.81,56.13,high,low,9,porkbun,,,28/09/2026 14:54
+dc462628-ff53-4fd4-a7bb-6ff6156ee886,destiny.voto,available,10.55,55.93,high,low,7,spaceship,,,29/09/2026 09:18
 85925132-aed7-43e5-b7fb-9fb4efa29804,guangzhou.voto,available,10.55,55.93,medium,low,9,spaceship,,,28/09/2026 13:37
 64ee9508-748b-46c5-af1a-72ba31eb5125,loveable.voto,available,11.98,86.98,high,low,8,namecheap,,,24/08/2026 10:07
 daa92b27-d6b6-432a-afa0-ca982f0d97f4,savage.voto,available,11.98,86.98,high,low,6,namecheap,,,08/08/2026 15:36
 d437cdd1-cea2-46a8-9239-f2da3ecfeda0,analogue.voto,available,11.98,86.98,high,low,8,namecheap,,,
-774cee69-6373-4260-8996-c4ec2ac262b9,alembic.voto,available,11.98,86.98,medium,low,7,namecheap,,,18/09/2026 05:10
+774cee69-6373-4260-8996-c4ec2ac262b9,alembic.voto,available,11.98,86.98,high,low,7,namecheap,,,18/09/2026 05:10
 874d62e4-2654-4121-a2f8-463326225a26,headed.voto,available,11.98,86.98,high,low,6,namecheap,,,21/08/2026 01:51
 2d152c81-93d9-4dbf-be9c-487a1f6f3292,listing.voto,available,26.5,,high,low,7,unstoppable,,,29/09/2026 01:23
 c49d2c81-4faa-420a-a94e-0903ba018a25,compliment.voto,available,11.98,86.98,high,low,10,namecheap,,,24/09/2026 16:50
 498ae6a4-7c92-4a78-a20c-bc0b3a69fdf2,nobody.voto,available,19.99,,high,low,6,name.com,,,
 4e24bd0b-5ad3-4441-8003-a73ac6252c32,fittest.voto,available,11.98,86.98,medium,low,7,namecheap,,,18/09/2026 04:12
+c03d0730-a77a-4b84-994d-87afd0b18d9f,quake.voto,available,10.55,55.93,high,low,5,spaceship,,,29/09/2026 18:44
 96a3cced-399f-478e-a885-4eaf520e1908,warn.voto,available,26.5,,high,low,4,unstoppable,,,28/09/2026 03:18
 5f871f2b-b955-4f86-9fc2-0be39a69a1d9,deserted.voto,available,11.98,86.98,medium,low,8,namecheap,,,
 ff7f3b1e-46d2-4d5e-bc28-db6f62dfb3d6,landscape.voto,available,10.92,58,high,low,9,dynadot,,,28/09/2026 12:24
@@ -339,7 +377,8 @@ c6803db3-ace8-4da5-871a-7b2ad37622c8,madcap.voto,available,11.98,86.98,medium,lo
 e3f6c46e-dc0e-4888-857b-7d8754db0f9e,blackmail.voto,available,11.98,86.98,high,low,9,namecheap,,,24/09/2026 02:52
 35a6f893-5c27-4f3c-bcfd-a24a99608123,rolled.voto,available,11.98,86.98,high,low,6,namecheap,,,18/08/2026 18:46
 7247d792-2fcb-41f6-8228-580648044871,teen.voto,available,11.98,86.98,high,low,4,namecheap,,,21/09/2026 19:11
-f01e5d27-ff0a-4ff2-b14b-5e7995e6e2a5,scanning.voto,available,10.55,55.93,medium,low,8,spaceship,,,28/09/2026 15:18
+337ff94c-41e0-4830-a018-cd3d9ad65362,departments.voto,available,10.55,55.93,medium,low,11,spaceship,,,29/09/2026 17:21
+f01e5d27-ff0a-4ff2-b14b-5e7995e6e2a5,scanning.voto,available,10.55,55.93,high,low,8,spaceship,,,28/09/2026 15:18
 172a7243-ac4b-436e-b496-0213ba0e4fb0,thaw.voto,available,11.98,86.98,high,low,4,namecheap,,,24/08/2026 19:45
 7fa9bab0-295c-43b9-b5da-6fcd3e71d847,aliyah.voto,available,11.98,86.98,high,low,6,namecheap,,,18/09/2026 08:11
 4a316a46-f4ea-4248-b66e-dc18173124f9,hillary.voto,available,11.98,86.98,high,low,7,namecheap,,,27/09/2026 03:48
@@ -349,22 +388,24 @@ f01e5d27-ff0a-4ff2-b14b-5e7995e6e2a5,scanning.voto,available,10.55,55.93,medium,
 72f7ce91-ce3b-4ab3-8282-578e27f67dd8,grounded.voto,available,11.98,86.98,high,low,8,namecheap,,,27/09/2026 06:36
 624762fb-566e-47b4-a8d6-c48c3b510c16,damien.voto,available,10.55,55.93,medium,low,6,spaceship,,,28/09/2026 21:57
 398d65d9-47ef-4be7-b4a2-d4c88b0711df,accede.voto,available,11.98,86.98,high,low,6,namecheap,,,20/09/2026 16:11
-bc22fef8-a417-4ee2-8f56-e2ef4be26e96,coincident.voto,available,11.98,86.98,medium,low,10,namecheap,,,12/08/2026 13:18
+bc22fef8-a417-4ee2-8f56-e2ef4be26e96,coincident.voto,available,11.98,86.98,high,low,10,namecheap,,,12/08/2026 13:18
 f11c78f9-faa9-4cfc-9726-abb42d987e07,agar.voto,available,11.98,86.98,medium,low,4,namecheap,,,17/09/2026 16:14
 50fd8b0f-7f83-4052-9c77-ebcc4e998e71,chopper.voto,available,11.98,86.98,high,low,7,namecheap,,,08/09/2026 11:24
 6d3c5d3c-5bc3-4cd9-a886-cff47ce70ffb,cheesecakes.voto,available,11.98,86.98,medium,low,11,namecheap,,,08/09/2026 07:37
 79332ffa-425a-4feb-bc55-3febcb2a121c,vexed.voto,available,11.98,86.98,medium,low,5,namecheap,,,21/08/2026 00:15
 ce72390e-1856-4882-8bda-169eeaf523c6,murders.voto,available,11.98,86.98,low,low,7,namecheap,,,25/09/2026 21:34
-f694d789-37ff-4c39-96f7-bb292f637cdc,funds.voto,available,19.99,,high,low,5,name.com,,,
-c5d6593f-a4c0-4161-95e3-bc0139038522,glissando.voto,available,11.98,86.98,medium,low,9,namecheap,,,14/09/2026 21:37
+f694d789-37ff-4c39-96f7-bb292f637cdc,funds.voto,available,26.5,,high,low,5,unstoppable,,,29/09/2026 07:34
+c5d6593f-a4c0-4161-95e3-bc0139038522,glissando.voto,available,11.98,86.98,high,low,9,namecheap,,,14/09/2026 21:37
 9130f528-ea88-4b51-9988-f9242f1e06f0,happened.voto,available,11.98,86.98,medium,low,8,namecheap,,,25/09/2026 20:05
 7c079651-43fe-4ee3-bbe5-869ead506624,encysted.voto,available,11.98,86.98,medium,low,8,namecheap,,,17/08/2026 00:44
+666a811c-2982-41e6-b02e-916f4318c157,rhino.voto,available,26.5,,high,low,5,unstoppable,,,29/09/2026 20:11
 cd1fd0cf-ec48-4a51-b955-a9584b181b84,canary.voto,available,11.98,86.98,high,low,6,namecheap,,,11/08/2026 16:10
 f539e99c-c344-4d12-8da6-75db0a388d63,onion.voto,available,10.92,58,high,low,5,dynadot,,,28/09/2026 20:37
 1ed5ef47-9767-43d1-9ba0-839e159d0f78,atarax.voto,available,11.98,86.98,medium,low,6,namecheap,,,20/09/2026 19:30
 5903af27-6b4e-4ce7-84e5-230228a72522,disposed.voto,available,19.99,,high,low,8,name.com,,,
-0c630146-0cf8-4dbe-b5db-f9ecf5b40fcc,magdalena.voto,available,19.99,107.99,medium,low,9,godaddy,,,28/09/2026 02:17
+0c630146-0cf8-4dbe-b5db-f9ecf5b40fcc,magdalena.voto,available,19.99,107.99,high,low,9,godaddy,,,28/09/2026 02:17
 4e3d0c18-b539-42e1-9996-9aeff49919de,pitfall.voto,available,19.99,,medium,low,7,name.com,,,
+0e2ac0c5-6eca-4176-9091-800bce606939,burch.voto,available,10.55,55.93,medium,low,5,spaceship,,,29/09/2026 15:48
 8e678bb7-ff7b-4127-8cd8-6ff61c79a300,viciously.voto,available,11.98,86.98,medium,low,9,namecheap,,,14/09/2026 01:35
 b499968d-bef9-4b2d-b7f5-8fe3149e699d,usernames.voto,available,11.98,86.98,medium,low,9,namecheap,,,20/09/2026 06:18
 80bc778f-27bf-43ce-9456-083f0bc5e186,shockingly.voto,available,11.98,86.98,medium,low,10,namecheap,,,16/09/2026 01:31
@@ -374,6 +415,7 @@ b499968d-bef9-4b2d-b7f5-8fe3149e699d,usernames.voto,available,11.98,86.98,medium
 ef0f20d0-13f3-42ab-8031-034bd821e7c1,sheikh.voto,available,11.98,86.98,high,low,6,namecheap,,,19/09/2026 23:25
 3f3bd64e-e459-4c47-976d-4baf58dc53db,racine.voto,available,10.55,55.93,high,low,6,spaceship,,,28/09/2026 02:12
 5ede9eeb-827d-421f-90a7-e739de60bb67,broadway.voto,available,11.98,86.98,high,low,8,namecheap,,,24/09/2026 10:38
+2a8a247c-bce6-4e73-8f3b-8a032d56b9c0,vanishing.voto,available,11.98,86.98,medium,low,9,namecheap,,,29/09/2026 20:33
 8dcd9fe8-c00d-4b0e-9356-6279acbc8360,betel.voto,available,11.98,86.98,medium,low,5,namecheap,,,23/09/2026 11:05
 e98bfea4-22db-4f85-b325-4f5496ddbd29,allowance.voto,available,10.81,56.13,high,low,9,porkbun,,,28/09/2026 20:37
 5e8fa4d2-87c8-4ed8-a722-1e473c931409,distorted.voto,available,11.98,86.98,medium,low,9,namecheap,,,13/08/2026 23:39
@@ -393,18 +435,21 @@ aaae4c3e-6eb2-4bab-8dfd-f981e4a295f9,subscription.voto,available,10.55,55.93,hig
 1ccc289b-7f9d-4ac2-a784-ec3fc1b8bfa4,denying.voto,available,10.81,56.13,medium,low,7,porkbun,,,28/09/2026 11:30
 2d6e964c-e38a-44bd-870b-100fc51c42d5,organised.voto,available,11.98,86.98,high,low,9,namecheap,,,26/09/2026 00:28
 0d29fd96-5a6d-45eb-9173-9ceef841f8f9,kashmiri.voto,available,11.98,86.98,medium,low,8,namecheap,,,22/08/2026 15:07
+b1083115-dc96-440c-b607-235944ede845,rows.voto,available,10.55,55.93,low,low,4,spaceship,,,29/09/2026 10:22
 5f3f93ef-52ff-430b-b3fe-aea23683c98f,crc.voto,available,26.5,,high,low,3,unstoppable,,,28/09/2026 21:11
 cd92a663-4f6e-46c1-b642-f85a6195f883,diabetic.voto,available,11.98,86.98,high,low,8,namecheap,,,14/08/2026 05:36
 f3570605-29d4-4fff-bde9-0a360bc970bf,neckless.voto,available,11.98,86.98,medium,low,8,namecheap,,,03/09/2026 14:41
-614a06b9-7536-4ee6-86ba-fe5565725aaa,headline.voto,available,19.99,,high,low,8,name.com,,,
+614a06b9-7536-4ee6-86ba-fe5565725aaa,headline.voto,available,10.92,58,high,low,8,dynadot,,,29/09/2026 22:23
 e5858fec-684c-4dab-b966-749a6fdb6da7,papist.voto,available,11.98,86.98,medium,low,6,namecheap,,,05/09/2026 01:35
+cfd3e6d1-91b8-4033-a932-d96463c771b5,lothian.voto,available,10.55,55.93,high,low,7,spaceship,,,30/09/2026 00:22
 98fd7ac3-091f-4e14-9f43-59e468e8972f,aryan.voto,available,,,high,high,5,,,,
 1f4dae15-f9de-43b3-9d76-2499fd562536,shorts.voto,available,10.55,55.93,high,low,6,spaceship,,,28/09/2026 07:26
 2af576c8-edd8-4f39-8574-0db4c8b20376,orwellian.voto,available,11.98,86.98,medium,low,9,namecheap,,,04/09/2026 18:08
 c592ffbc-da7b-4f11-b1ef-4f7b35c6322e,indisposed.voto,available,11.98,86.98,medium,low,10,namecheap,,,
 fa21eed3-7b64-456e-92c2-dd18d225c580,juxtaposed.voto,available,11.98,86.98,medium,low,10,namecheap,,,22/08/2026 15:00
 5313f446-feca-440a-935f-857f8ccf3496,parentage.voto,available,11.98,86.98,medium,low,9,namecheap,,,08/09/2026 13:25
-97c9b5fc-b4fd-4715-8d45-93726dec6c20,osman.voto,available,26.5,,medium,low,5,unstoppable,,,28/09/2026 22:06
+062e4b29-5cd9-41c9-8475-0639ddb2e213,sponsors.voto,available,10.55,55.93,high,low,8,spaceship,,,29/09/2026 11:40
+97c9b5fc-b4fd-4715-8d45-93726dec6c20,osman.voto,available,26.5,,high,low,5,unstoppable,,,28/09/2026 22:06
 43009189-a60e-430f-9d5c-c2a5aefd9e8f,aire.voto,available,11.98,86.98,high,low,4,namecheap,,,17/09/2026 23:06
 7fb6a931-d3ab-4bb8-8e73-c8bdbef0659b,stingy.voto,available,11.98,86.98,medium,low,6,namecheap,,,24/08/2026 18:08
 83b2507e-76e1-4144-9f5a-78e7c7dbae4e,composed.voto,available,11.98,86.98,high,low,8,namecheap,,,23/09/2026 17:50
@@ -413,57 +458,66 @@ caeb2712-8619-45e1-a5fe-fdfe0a3264f3,downstairs.voto,available,11.98,86.98,high,
 127acc1c-01bf-4551-9fe5-8faddf2b0f63,dreaming.voto,available,11.98,86.98,high,low,8,namecheap,,,24/09/2026 23:58
 0e9852e0-c7f1-4558-9149-902e471e325e,dialog.voto,available,11.98,86.98,high,low,6,namecheap,,,24/09/2026 22:13
 cadfa0cf-8248-4878-a909-c25e96b30572,scoops.voto,available,11.98,86.98,medium,low,6,namecheap,,,20/09/2026 12:19
+253f1231-4e4b-4ed1-9527-31e0ae661612,specialists.voto,available,10.55,55.93,medium,low,11,spaceship,,,29/09/2026 17:23
 395abc2c-aa87-46f8-8620-53cd605e171b,biometrics.voto,available,11.98,86.98,high,low,10,namecheap,,,23/09/2026 18:33
 126d4de7-0357-47f8-b218-74b82cfd2d7c,overladen.voto,available,11.98,86.98,medium,low,9,namecheap,,,04/09/2026 20:51
 c1a2a4dd-96f9-4d43-9673-e336927d5fcc,andalusia.voto,available,11.98,86.98,high,low,9,namecheap,,,19/09/2026 03:57
 1980bffd-9361-44ca-9c95-2fd60597e539,boots.voto,available,19.99,,high,low,5,name.com,,,
 81575c42-e4d7-4d63-88c3-f3aaa092d4b7,technique.voto,available,10.55,55.93,high,low,9,spaceship,,,28/09/2026 08:09
+c14a8016-b2d3-41b3-9d88-d5db84cd2200,servers.voto,available,10.55,55.93,high,low,7,spaceship,,,29/09/2026 17:57
 e16ba83a-0095-4fc4-9c97-1a1fc331bea7,impersonal.voto,available,11.98,86.98,medium,low,10,namecheap,,,21/08/2026 22:13
-0e233ff1-d515-4544-ad3e-ded9b41c6883,issue.voto,premium,123.75,,high,low,5,name.com,,,
+0e233ff1-d515-4544-ad3e-ded9b41c6883,issue.voto,premium,108.9,108.9,high,low,5,dynadot,,,29/09/2026 11:12
 6b91840f-152f-4259-9668-00993a3252ef,nails.voto,available,19.99,,high,low,5,name.com,,,
 ba8a9b35-e775-4df3-8c3e-3901404e21f6,abu.voto,available,10.55,55.93,high,low,3,spaceship,,,29/09/2026 03:39
 db8d5ff7-1d00-416a-b89c-9e78b3957c72,contains.voto,available,11.98,86.98,medium,low,8,namecheap,,,18/09/2026 15:08
 9fb451cf-42f6-4aa9-b1a4-d8ebb53512ed,alcoves.voto,available,11.98,86.98,low,low,7,namecheap,,,20/09/2026 22:35
+77fb3c1c-7c50-4538-8ce8-65592b3b5946,jia.voto,available,10.55,55.93,high,low,3,spaceship,,,29/09/2026 22:43
 23505ba4-b858-4350-9162-5f123f78b20e,westmoreland.voto,available,10.81,56.13,high,low,12,porkbun,,,28/09/2026 04:13
 33ecc616-89b1-4fe7-8799-ee456c3d2b3d,lunisolar.voto,available,11.98,86.98,medium,low,9,namecheap,,,24/08/2026 11:31
 d6a9b89e-72b4-42e3-8117-5b659110e2a0,parole.voto,available,10.55,55.93,high,low,6,spaceship,,,28/09/2026 05:28
 2f56f119-64b6-4869-bbcb-f5ec2ab95780,section.voto,available,11.98,86.98,high,low,7,namecheap,,,08/09/2026 06:07
 9f283d72-181e-440a-bd25-7e84fe672499,gammy.voto,available,11.98,86.98,medium,low,5,namecheap,,,18/08/2026 20:04
-53bc57d9-fc4d-4287-a94c-25482ecd4b6c,chase.voto,available,,,high,high,5,,,,
 77088da1-c9a0-4b48-892e-5af5a65827cd,fig.voto,available,26.5,,high,low,3,unstoppable,,,28/09/2026 19:43
+afa76e88-9a27-4ca1-9d06-df135b5b1619,rudder.voto,available,10.81,56.13,high,low,6,porkbun,,,29/09/2026 20:14
 62303c32-a7d6-4f9a-ad94-035f89085c84,zoonotic.voto,available,11.98,86.98,high,low,8,namecheap,,,13/09/2026 15:35
-d2c10ad7-b28f-4f6a-8f51-b92805fe5940,humans.voto,available,19.99,,high,medium,6,name.com,,,
+d2c10ad7-b28f-4f6a-8f51-b92805fe5940,humans.voto,available,10.92,58,high,medium,6,dynadot,,,29/09/2026 23:22
 28803289-25df-4a1d-8b7e-dc5ca5612d89,accidents.voto,available,10.55,55.93,medium,low,9,spaceship,,,28/09/2026 05:03
-d8578a94-7bb3-4434-8dfb-a29730db2855,animist.voto,available,11.98,86.98,medium,low,7,namecheap,,,
+d8578a94-7bb3-4434-8dfb-a29730db2855,animist.voto,available,11.98,86.98,high,low,7,namecheap,,,
 29b7ebaf-8f4e-44bb-9e7d-71eeedf77122,bioscope.voto,available,11.98,86.98,medium,low,8,namecheap,,,23/09/2026 19:01
 f15fd191-c3b0-49c5-bd19-d7418406a126,coerce.voto,available,11.98,86.98,medium,low,6,namecheap,,,20/08/2026 22:25
 18ec4ffb-2408-4312-8760-46ab1713f0f2,hardware.voto,available,11.98,86.98,high,low,8,namecheap,,,24/09/2026 16:57
+c03a41f4-b857-4eed-9fed-8b17a2055172,hutt.voto,available,10.81,56.13,medium,low,4,porkbun,,,29/09/2026 22:18
 65c92d5a-f4c0-4a57-90a4-55ccff6f7066,lustrous.voto,available,11.98,86.98,high,low,8,namecheap,,,11/08/2026 11:00
 8fa27e90-5890-417d-bb24-0252435e3bb3,activator.voto,available,11.98,86.98,high,low,9,namecheap,,,17/09/2026 05:10
-f09f6b3e-2073-4697-8d8c-2af18675291a,testicle.voto,available,11.98,86.98,medium,low,8,namecheap,,,21/09/2026 22:59
+f09f6b3e-2073-4697-8d8c-2af18675291a,testicle.voto,available,11.98,86.98,high,low,8,namecheap,,,21/09/2026 22:59
 4a571c37-e876-4167-96dd-dad170a9efc5,drab.voto,available,11.98,86.98,medium,low,4,namecheap,,,14/08/2026 11:43
 3b2c879f-23e2-47c2-92e5-ee8d211a69f4,atc.voto,available,11.98,86.98,high,low,3,namecheap,,,27/09/2026 07:00
 de666a6d-cb03-4a71-b1e2-9496c89aa23d,licentious.voto,available,11.98,86.98,medium,low,10,namecheap,,,23/08/2026 00:56
-7c1bc6af-5f70-4eb9-b5c9-9d7adb9e5146,bullet.voto,available,19.99,,high,low,6,name.com,,,
+7c1bc6af-5f70-4eb9-b5c9-9d7adb9e5146,bullet.voto,available,10.92,58,high,low,6,dynadot,,,29/09/2026 05:18
 d37fc7bc-e9fc-4569-a6f3-a8dd51022c4b,smiles.voto,available,10.55,55.93,high,low,6,spaceship,,,28/09/2026 22:27
 789c0141-d41b-430e-a230-89bd5a52ca96,petition.voto,premium,102.67,102.67,high,low,8,spaceship,,,28/09/2026 10:38
 3dcbefd3-0d98-4535-93a9-8d2aa2fb5951,laden.voto,available,11.98,86.98,medium,low,5,namecheap,,,22/08/2026 18:30
 7b9b7361-b935-48b1-a829-7089e7d08a73,balding.voto,available,11.98,86.98,medium,low,7,namecheap,,,08/08/2026 09:35
 ce4e3e1c-0c57-4fcb-b2f7-e01eb97fb896,bacca.voto,available,11.98,86.98,high,low,5,namecheap,,,21/09/2026 13:55
 d17f5430-d6de-4de7-bbee-aa8b3b902d50,hutchison.voto,available,26.5,,medium,low,9,unstoppable,,,28/09/2026 22:09
+6db11720-f187-4dee-b4e8-096ffcc1a86f,historically.voto,available,26.5,,medium,low,12,unstoppable,,,29/09/2026 08:34
+fe64474a-7974-495c-b8f6-81bf07d6a9d8,performers.voto,available,11.98,86.98,medium,low,10,namecheap,,,30/09/2026 00:18
 099c1474-3cda-4969-88db-d155dba8e645,insular.voto,available,11.98,86.98,medium,low,7,namecheap,,,22/08/2026 07:38
-68845fa1-b714-4a55-abcc-65e4dc540243,pictures.voto,available,11.98,86.98,high,low,8,namecheap,,,25/09/2026 16:28
-f2165fb9-2b38-4093-a554-879c4a5d7677,warned.voto,available,11.98,86.98,medium,low,6,namecheap,,,18/09/2026 02:46
+68845fa1-b714-4a55-abcc-65e4dc540243,pictures.voto,available,10.55,55.93,high,low,8,spaceship,,,29/09/2026 19:18
+f2165fb9-2b38-4093-a554-879c4a5d7677,warned.voto,available,11.98,86.98,high,low,6,namecheap,,,18/09/2026 02:46
+fa4a6c62-dec4-4c54-92a8-baa7a8e533ee,naturalism.voto,available,10.55,55.93,high,low,10,spaceship,,,29/09/2026 13:32
+29853401-3ed0-4484-9e46-2a4a1da25e8f,woodland.voto,available,10.55,55.93,high,low,8,spaceship,,,29/09/2026 20:30
 72c82fcc-ec2e-4ffb-8376-e105131a00f7,confess.voto,available,19.99,,high,low,7,name.com,,,
 15fbcff3-e8b9-4c8d-b675-72ca0426f1e8,alalia.voto,available,11.98,86.98,medium,low,6,namecheap,,,18/09/2026 01:40
 736ecaff-5ec4-4d6e-9a05-2a3076c9cab7,towering.voto,available,11.98,86.98,high,low,8,namecheap,,,11/09/2026 18:24
 24d957a7-796d-461c-afd7-b176c3c6b12b,all.voto,premium,128.7,128.7,high,medium,3,namecheap,,,22/09/2026 00:25
 5a0a54cb-a564-4472-a096-badde1420673,conflicts.voto,available,11.98,86.98,medium,low,9,namecheap,,,19/09/2026 21:22
+a60b1b97-8fe9-4280-b1d6-fcdc7f1b1800,xiang.voto,available,10.55,55.93,high,low,5,spaceship,,,29/09/2026 22:18
 fb762d63-d605-469b-9459-4bbc674fa65b,gilt.voto,available,11.98,86.98,high,low,4,namecheap,,,18/08/2026 23:34
 ce3168bc-1656-4a4c-8cce-8fdd461a8a7b,zhou.voto,available,11.98,86.98,high,low,4,namecheap,,,25/09/2026 22:14
 53aa4f1d-94b3-4c0c-be09-f52a1bef959b,battlement.voto,available,11.98,86.98,medium,low,10,namecheap,,,22/09/2026 16:28
 69c41417-2179-466e-8fc0-6149e482af10,kitty.voto,available,11.98,86.98,high,low,5,namecheap,,,25/09/2026 23:15
-3b02b497-4acc-4cba-b75e-26e837c39494,cucumber.voto,available,19.99,,high,low,8,name.com,,,
+3b02b497-4acc-4cba-b75e-26e837c39494,cucumber.voto,available,10.55,55.93,high,low,8,spaceship,,,29/09/2026 12:58
 3cf9dfce-8ef4-46fe-9917-8a2102ae2a73,hated.voto,available,11.98,86.98,medium,low,5,namecheap,,,14/08/2026 04:14
 535233c5-5eeb-4cc5-9bc3-4cb88bd143d0,blacks.voto,available,10.92,58,low,low,6,dynadot,,,28/09/2026 18:09
 11db4940-d2fd-4568-8941-212473795353,revealing.voto,available,10.92,58,high,low,9,dynadot,,,27/09/2026 13:41
@@ -483,6 +537,7 @@ b5861c4a-26bb-434c-a7e0-e50c354d0c48,party.voto,premium,128.7,128.7,high,medium,
 640adbca-1050-4316-9959-0a1e09d9ea2e,roadman.voto,available,11.98,86.98,medium,low,7,namecheap,,,21/09/2026 18:08
 4f7ea15f-a266-43d1-9e0f-eebb693a72e2,ampoule.voto,available,11.98,86.98,medium,low,7,namecheap,,,18/09/2026 23:49
 cc494036-6e94-47ca-b226-74466ff8ecaf,gibe.voto,available,11.98,86.98,medium,low,4,namecheap,,,22/09/2026 04:17
+bd821654-2a3c-4bfb-8a65-b4fac2923c80,mentality.voto,available,26.5,,high,low,9,unstoppable,,,29/09/2026 06:09
 2676a500-89e4-4505-be53-e78135f30b31,freaking.voto,available,19.99,,medium,low,8,name.com,,,
 b9605a99-9126-42f4-a188-64f96ec6bdb8,projected.voto,available,11.98,86.98,high,low,9,namecheap,,,22/08/2026 14:46
 13fe13a9-58ce-4dc7-aa20-1d0071f91fa6,malamud.voto,available,11.98,86.98,medium,low,7,namecheap,,,23/09/2026 09:50
@@ -491,7 +546,8 @@ b9605a99-9126-42f4-a188-64f96ec6bdb8,projected.voto,available,11.98,86.98,high,l
 9d2473f8-1791-4257-b8a5-f5a706144245,articular.voto,available,11.98,86.98,medium,low,9,namecheap,,,06/08/2026 23:26
 537fe60b-2afa-40c2-a06e-53539c7affd9,amylase.voto,available,11.98,86.98,medium,low,7,namecheap,,,19/09/2026 00:30
 57fcdee8-41cd-4222-bb83-6c2c52b3fed5,bigamy.voto,available,11.98,86.98,medium,low,6,namecheap,,,23/09/2026 15:03
-1dd6f62c-a9b1-4d8c-9084-399db22faa49,holly.voto,available,19.99,,high,low,5,name.com,,,
+1dd6f62c-a9b1-4d8c-9084-399db22faa49,holly.voto,available,10.55,55.93,high,low,5,spaceship,,,29/09/2026 05:03
+299597dd-48ec-4692-be6e-549461ee3bcf,patrols.voto,available,11.98,86.98,medium,low,7,namecheap,,,29/09/2026 11:26
 ab2708b6-d1a9-4780-89a4-448884fc0add,stored.voto,available,10.55,55.93,low,low,6,spaceship,,,28/09/2026 17:31
 dcf9ea39-c780-4ca2-ab7a-acfd355998cf,barony.voto,available,11.98,86.98,high,low,6,namecheap,,,22/09/2026 07:36
 7b54ab03-18d3-4e49-a92a-df44c1d094bf,admitting.voto,available,10.55,55.93,medium,low,9,spaceship,,,28/09/2026 20:58
@@ -504,6 +560,7 @@ b146f6ae-683c-45b3-84a9-2e4105402d87,alehouse.voto,available,11.98,86.98,high,lo
 0dde6ec7-2df7-49b1-980b-922122ffd5f4,doris.voto,available,11.98,86.98,high,low,5,namecheap,,,27/09/2026 03:46
 266d0474-308e-4417-baf6-6a3485db1669,squint.voto,available,11.98,86.98,medium,low,6,namecheap,,,07/08/2026 03:15
 68e460ed-059d-42e9-b046-22bacbef320d,vocalic.voto,available,11.98,86.98,medium,low,7,namecheap,,,13/09/2026 06:26
+d0ed5ec3-c11b-4248-8f55-ef109e71a9e3,gibb.voto,available,10.55,55.93,medium,low,4,spaceship,,,29/09/2026 22:06
 5bf9b95b-562c-4276-9a16-3ae59d550072,graphics.voto,available,10.81,56.13,high,low,8,porkbun,,,28/09/2026 22:24
 0bb12d20-44d3-4712-8aff-c669f5f0fcec,infallible.voto,available,11.98,86.98,high,low,10,namecheap,,,22/08/2026 04:05
 2068c495-1202-4faf-891b-62de5428ad63,cautious.voto,available,11.98,86.98,high,low,8,namecheap,,,11/08/2026 22:44
@@ -513,60 +570,66 @@ cef10387-e42e-4c90-a86c-a49f44722d58,par.voto,available,10.92,58,high,low,3,dyna
 1f8f9b3b-3079-4646-8c04-bb9e2e06c517,crowe.voto,available,10.55,55.93,medium,low,5,spaceship,,,28/09/2026 12:13
 59a48a1b-6f23-4c4d-b2a6-270e939b9a47,knot.voto,available,10.81,56.13,high,low,4,porkbun,,,28/09/2026 19:37
 323558a7-f706-4f72-a727-4628317a0e4e,acrimony.voto,available,19.99,102.99,medium,low,8,name.com,,,17/09/2026 03:09
-e84586a9-b936-4387-b325-4fba024d1765,amputation.voto,available,19.99,102.99,medium,low,10,name.com,,,18/09/2026 23:52
+e84586a9-b936-4387-b325-4fba024d1765,amputation.voto,available,19.99,102.99,high,low,10,name.com,,,18/09/2026 23:52
 2a34675b-ab50-48f6-93a1-c6b2f39a2949,albany.voto,available,11.98,86.98,high,low,6,namecheap,,,18/09/2026 02:27
 c1ff180f-6c66-4537-9c57-826c2604922a,mouse.voto,available,10.55,55.93,high,low,5,spaceship,,,27/09/2026 23:29
 6aa2d6f0-a495-4180-a1e6-cd410034fae6,sweetsop.voto,available,11.98,86.98,medium,low,8,namecheap,,,19/09/2026 10:27
 09d2ab42-94af-4dbc-a6d0-520078232564,shakedown.voto,available,11.98,86.98,medium,low,9,namecheap,,,10/09/2026 05:40
-6b6477fa-3af4-491f-98a1-7fc8c5ceb4e0,dahl.voto,available,10.55,55.93,medium,low,4,spaceship,,,28/09/2026 09:14
+6b6477fa-3af4-491f-98a1-7fc8c5ceb4e0,dahl.voto,available,10.55,55.93,high,low,4,spaceship,,,28/09/2026 09:14
 bbfe3153-303f-4c16-9d69-658719e37f3d,motile.voto,available,11.98,86.98,medium,low,6,namecheap,,,25/08/2026 07:18
-066fe315-f2a4-4932-be4b-59fa71b66b1f,lan.voto,available,19.99,,high,low,3,name.com,,,
+066fe315-f2a4-4932-be4b-59fa71b66b1f,lan.voto,available,26.5,,high,low,3,unstoppable,,,30/09/2026 02:02
 dbfaf487-b7dd-486b-abae-a36766d776b0,xlviii.voto,available,11.98,86.98,medium,low,6,namecheap,,,
 c2be5cdd-ed14-434f-9ae1-a32c830a9fa3,described.voto,available,11.98,86.98,high,low,9,namecheap,,,24/09/2026 06:37
-b3eab0e0-5df3-4105-8805-00598e7e3b4a,floored.voto,available,11.98,86.98,medium,low,7,namecheap,,,18/08/2026 08:49
+b3eab0e0-5df3-4105-8805-00598e7e3b4a,floored.voto,available,11.98,86.98,high,low,7,namecheap,,,18/08/2026 08:49
 41b49be0-28be-4118-8d7a-854746d0f33f,atomizer.voto,available,11.98,86.98,high,low,8,namecheap,,,21/09/2026 00:18
 f44d05dc-9338-478c-a00b-69e5b394af8f,sombre.voto,available,11.98,86.98,medium,low,6,namecheap,,,10/09/2026 14:02
 6c4f3d0a-7fbf-484a-8341-e48e887d4b7b,stadium.voto,available,10.92,58,high,low,7,dynadot,,,28/09/2026 03:07
 4711a821-a5ef-4185-8f45-8dc720701631,organise.voto,available,11.98,86.98,high,low,8,namecheap,,,23/09/2026 23:21
 02249b7f-440d-40f9-ae36-2b074d6a5457,hitherto.voto,available,11.98,86.98,medium,low,8,namecheap,,,13/09/2026 21:48
 a58f72a2-d867-40e7-8d4e-ac963b64deb7,monkish.voto,available,11.98,86.98,medium,low,7,namecheap,,,25/08/2026 04:53
-10c8fbae-a787-4533-8573-4af77d87f36f,tapering.voto,available,11.98,86.98,medium,low,8,namecheap,,,14/08/2026 21:50
+10c8fbae-a787-4533-8573-4af77d87f36f,tapering.voto,available,11.98,86.98,high,low,8,namecheap,,,14/08/2026 21:50
 820e20c6-da55-4b4d-9a1e-c207561f02b3,thriving.voto,available,10.55,55.93,high,low,8,spaceship,,,28/09/2026 05:53
 ffab8591-ac80-45cc-83d3-aca77f18e15a,flagfish.voto,available,11.98,86.98,medium,low,8,namecheap,,,18/09/2026 19:58
-c5757ac5-448b-4446-a165-a5eecdd979ba,rightness.voto,available,11.98,86.98,medium,low,9,namecheap,,,19/09/2026 22:23
-7237749b-3d97-4500-9547-20420e8bb86d,easton.voto,available,11.98,86.98,medium,low,6,namecheap,,,25/09/2026 16:33
-39a9b592-8d9e-4ee1-aa06-b51c2b273c4a,unhurried.voto,available,11.98,86.98,medium,low,9,namecheap,,,12/09/2026 12:39
+c5757ac5-448b-4446-a165-a5eecdd979ba,rightness.voto,available,11.98,86.98,high,low,9,namecheap,,,19/09/2026 22:23
+7237749b-3d97-4500-9547-20420e8bb86d,easton.voto,available,11.98,86.98,high,low,6,namecheap,,,25/09/2026 16:33
+39a9b592-8d9e-4ee1-aa06-b51c2b273c4a,unhurried.voto,available,11.98,86.98,high,low,9,namecheap,,,12/09/2026 12:39
+020e6822-844c-484d-b654-9aafad827f3a,hypnosis.voto,available,10.55,55.93,high,low,8,spaceship,,,29/09/2026 19:14
+be09610a-f95b-4a17-8c2a-3d4ae7f68cb1,kmt.voto,available,11.98,86.98,high,low,3,namecheap,,,29/09/2026 22:33
 6553d025-6dd0-439b-88b4-583f77e6fafe,regulation.voto,available,11.98,86.98,high,low,10,namecheap,,,09/09/2026 13:07
 52f85fcb-1f11-499b-911a-5103bcf60976,ashton.voto,available,11.98,86.98,high,low,6,namecheap,,,20/09/2026 14:00
 46a59cbd-8454-41e7-a802-6ebdbc87e838,addon.voto,available,11.98,86.98,high,low,6,namecheap,,,17/09/2026 06:37
 dbc8d5a3-93c4-4a34-b29d-87da0ac04b0c,attainable.voto,available,11.98,86.98,high,low,10,namecheap,,,19/09/2026 04:15
+83d0e660-a6d6-4e51-9348-bb28a22d2eb0,ken.voto,available,19.99,107.99,high,low,3,godaddy,,,30/09/2026 02:05
 f9adda07-8f43-42f1-93cf-ffa08bc9b7f7,aztec.voto,available,11.98,86.98,high,low,5,namecheap,,,21/09/2026 11:36
 9ed7a987-cc6e-40a9-a556-ad04743e0d22,honorary.voto,available,11.98,86.98,high,low,8,namecheap,,,21/08/2026 13:29
 b409f370-13b6-496f-b1ad-7c7bc0d7a70f,blah.voto,available,11.98,86.98,high,low,4,namecheap,,,24/09/2026 03:41
 2e658577-af5d-4cfd-883f-69446c86b692,external.voto,available,11.98,86.98,high,low,8,namecheap,,,17/08/2026 19:09
 9718f87c-d296-4798-90eb-7d45c94722b2,xcl.voto,available,11.98,86.98,medium,low,3,namecheap,,,
 9b9260c0-1406-40d0-8727-d297c9c49c60,freak.voto,available,11.98,86.98,high,low,5,namecheap,,,17/09/2026 06:50
+9c6294c2-98da-4cb2-9f65-72247208db57,mediterranean.voto,available,10.81,56.13,high,low,13,porkbun,,,29/09/2026 08:26
 4126dfe5-96aa-427e-989f-ac6aa7f4749f,yummy.voto,available,11.98,86.98,high,low,5,namecheap,,,14/08/2026 00:26
 2a70a810-4e7e-49d2-9e2d-1aa0e3c98fe8,giovanni.voto,available,11.98,86.98,high,low,8,namecheap,,,25/09/2026 14:42
-9b6b8564-faa2-4f65-8a6d-3aa0e5ce0c9f,bestiary.voto,available,11.98,86.98,medium,low,8,namecheap,,,23/09/2026 10:36
+9b6b8564-faa2-4f65-8a6d-3aa0e5ce0c9f,bestiary.voto,available,11.98,86.98,high,low,8,namecheap,,,23/09/2026 10:36
 ce1d538c-3ec2-4f07-98f3-489bde727961,marmoreal.voto,available,11.98,86.98,medium,low,9,namecheap,,,24/08/2026 16:12
+29876df0-5465-42fe-b496-4d8f7f152f80,carbonates.voto,available,10.55,55.93,medium,low,10,spaceship,,,30/09/2026 00:32
 b108a0c0-0144-493d-8f21-ecb61cd90066,acinonyx.voto,available,19.99,102.99,medium,low,8,name.com,,,17/09/2026 01:31
-894dc01a-b331-4989-965d-18f86ffdb4cb,gag.voto,available,19.99,,high,low,3,name.com,,,
+894dc01a-b331-4989-965d-18f86ffdb4cb,gag.voto,available,10.55,55.93,high,low,3,spaceship,,,29/09/2026 20:25
 257c74ff-412a-4cbf-87ac-40b5a3061287,printing.voto,available,11.98,86.98,high,low,8,namecheap,,,28/09/2026 06:37
 e6c85ae8-f965-4f84-a179-79a2fb98bda2,merciless.voto,available,11.98,86.98,medium,low,9,namecheap,,,24/08/2026 20:36
 1d8d79ef-a3cd-47a6-837c-2b1673a62280,avens.voto,available,11.98,86.98,medium,low,5,namecheap,,,21/09/2026 09:03
-ff99a90a-2575-45fa-a314-92909886569c,slave.voto,available,19.99,,high,low,5,name.com,,,
+ff99a90a-2575-45fa-a314-92909886569c,slave.voto,available,10.55,55.93,high,low,5,spaceship,,,29/09/2026 22:14
 345b06e9-c58d-4ba1-bbd3-ac8bcf591502,sot.voto,available,11.98,86.98,medium,low,3,namecheap,,,14/08/2026 20:22
 99a31cac-f5a4-41f8-a3f9-e0b1fe3ec69e,clan.voto,available,11.98,86.98,high,low,4,namecheap,,,22/08/2026 16:05
 cef2abc8-b1c8-4a2a-9b1f-22cb2abffcdc,initial.voto,available,11.98,86.98,high,low,7,namecheap,,,25/09/2026 09:36
-bd7fa09f-dad2-4fd5-b3ef-8762d65fce14,replacing.voto,available,10.55,55.93,medium,low,9,spaceship,,,29/09/2026 02:02
+bd7fa09f-dad2-4fd5-b3ef-8762d65fce14,replacing.voto,available,10.55,55.93,high,low,9,spaceship,,,29/09/2026 02:02
 295f5ab5-8b4a-4382-add7-8d4963137437,abort.voto,available,11.98,86.98,high,low,5,namecheap,,,16/09/2026 16:38
 e7d82bcc-6681-4d38-a99b-a9c3ab1f0ca7,literally.voto,available,10.55,55.93,medium,low,9,spaceship,,,28/09/2026 16:10
 50d259e7-10dd-4cec-abf6-7cae51fcf4c0,conjunct.voto,available,11.98,86.98,high,low,8,namecheap,,,12/08/2026 20:08
 177ce1d5-bef4-4174-a2cf-b8d178680f76,achy.voto,available,11.98,86.98,medium,low,4,namecheap,,,
 57f46a98-e4b2-4ac3-a28f-9d44bb567580,emergent.voto,available,11.98,86.98,high,low,8,namecheap,,,16/08/2026 14:17
-61211577-c182-4bc9-a7d4-4151380f675d,bulb.voto,available,19.99,,high,low,4,name.com,,,
+61211577-c182-4bc9-a7d4-4151380f675d,bulb.voto,available,26.5,,high,low,4,unstoppable,,,29/09/2026 05:14
 bcc71842-9335-489f-b9d0-a14c0d185f2e,wormy.voto,available,11.98,86.98,medium,low,5,namecheap,,,13/08/2026 06:43
+26ab94e6-d929-42f7-810d-03cc56115968,cecil.voto,available,10.81,56.13,high,low,5,porkbun,,,29/09/2026 09:15
 0580fd9f-29e8-4481-a907-6863a635bc11,humor.voto,available,11.98,86.98,high,low,5,namecheap,,,24/09/2026 06:28
 fcbb8dd6-2291-4665-b09c-24bf8e7767a7,antigone.voto,available,11.98,86.98,medium,low,8,namecheap,,,19/09/2026 14:26
 cef79c0d-983d-42d6-bfcb-8152889622b7,strap.voto,available,10.55,55.93,high,low,5,spaceship,,,28/09/2026 10:12
@@ -575,6 +638,7 @@ cef79c0d-983d-42d6-bfcb-8152889622b7,strap.voto,available,10.55,55.93,high,low,5
 3643548b-961f-4069-9f51-f30b2d740855,lookouts.voto,available,11.98,86.98,medium,low,8,namecheap,,,18/09/2026 10:55
 64dba530-5946-4e00-a910-b1b92ae3de20,lumber.voto,available,11.98,86.98,high,low,6,namecheap,,,22/09/2026 10:02
 8e81eebf-2a5b-40e1-8f92-7ac6086fe3ce,bacteria.voto,available,11.98,86.98,high,low,8,namecheap,,,21/09/2026 16:28
+7df21be3-a879-4052-ad9b-76c71cd86a57,confederate.voto,available,10.55,55.93,high,low,11,spaceship,,,29/09/2026 08:51
 ce317bad-2ff0-4e03-9975-c0369d3377fc,watered.voto,available,11.98,86.98,medium,low,7,namecheap,,,25/08/2026 03:28
 3e85af89-1a61-4a39-a365-98a97dfd9a7d,starring.voto,available,10.55,55.93,medium,low,8,spaceship,,,28/09/2026 22:41
 93d54323-7169-4bd3-a723-dafb3962dac6,official.voto,available,19.99,,high,low,8,name.com,,,26/09/2026 00:05
@@ -585,8 +649,9 @@ d29b24ea-75ea-41d1-9f85-5f47bb071099,unhinge.voto,available,11.98,86.98,medium,l
 4232b45d-b2d1-49eb-ab7b-65bb8aa1f6bf,candidates.voto,premium,54.36,108.6,high,low,10,porkbun,,,28/09/2026 17:58
 5831703c-ad6a-4852-9e9c-cf834b8d8563,suburban.voto,available,11.98,86.98,high,low,8,namecheap,,,11/09/2026 00:54
 a19bad1e-5c93-4e70-9823-996e61176d2e,abrogation.voto,available,19.99,102.99,medium,low,10,name.com,,,16/09/2026 17:14
-8c43bc55-c443-4c6b-b734-fa1e2878c1e6,trifling.voto,available,11.98,86.98,medium,low,8,namecheap,,,05/09/2026 00:21
+8c43bc55-c443-4c6b-b734-fa1e2878c1e6,trifling.voto,available,11.98,86.98,high,low,8,namecheap,,,05/09/2026 00:21
 74da9ba7-fd8e-4ef7-8805-f3db8d5c2b2d,updates.voto,available,11.98,86.98,medium,low,7,namecheap,,,20/09/2026 08:39
+20c4f0d8-0016-4797-8570-af39354b0e8f,thackeray.voto,available,11.98,86.98,medium,low,9,namecheap,,,29/09/2026 14:03
 6f1d73b4-1954-418f-ac4d-2ff644a49c86,squiffy.voto,available,11.98,86.98,low,low,7,namecheap,,,09/08/2026 16:38
 01b9b18f-2a6c-4554-8fcd-951bcc4771d8,philatelic.voto,available,11.98,86.98,medium,low,10,namecheap,,,08/09/2026 18:49
 f89c6d41-f7a3-49ba-8470-f8c18f51f270,hurd.voto,available,26.5,,medium,low,4,unstoppable,,,28/09/2026 22:24
@@ -597,11 +662,14 @@ f89c6d41-f7a3-49ba-8470-f8c18f51f270,hurd.voto,available,26.5,,medium,low,4,unst
 f28d00c7-b63f-47da-9635-9cd2ea0bec14,drawings.voto,available,10.55,55.93,medium,low,8,spaceship,,,28/09/2026 13:09
 873f1573-fb7b-490a-87b2-efce3c11eb91,moderator.voto,available,19.99,,high,low,9,name.com,,,
 a81dd79c-34c4-4f0f-87c7-a30665d22b64,arabis.voto,available,11.98,86.98,medium,low,6,namecheap,,,19/09/2026 23:33
-811e4979-c7dd-41af-ba89-062fd5f1d737,sandals.voto,available,11.98,86.98,medium,low,7,namecheap,,,20/09/2026 14:52
+811e4979-c7dd-41af-ba89-062fd5f1d737,sandals.voto,available,11.98,86.98,high,low,7,namecheap,,,20/09/2026 14:52
 4d0fa4f3-95b0-48bf-8863-7f0b33e6987d,russian.voto,available,10.55,55.93,high,low,7,spaceship,,,27/09/2026 17:35
+b7af54a4-4214-4c4a-9c02-a46a3a9218ac,sighs.voto,available,10.55,55.93,medium,low,5,spaceship,,,30/09/2026 00:18
 2e3e5843-4128-4d49-9239-d57c85628386,squalls.voto,available,11.98,86.98,low,low,7,namecheap,,,20/09/2026 14:16
 a2126bca-72dc-4748-93a1-5c128bead9f8,qualities.voto,available,26.5,,medium,low,9,unstoppable,,,28/09/2026 08:30
 50b214a9-f25a-4d5c-be9e-f543826c60a2,doughy.voto,available,11.98,86.98,medium,low,6,namecheap,,,14/08/2026 17:03
+2e145da3-dbca-474b-afbf-b3ee375881b4,fascism.voto,available,10.55,55.93,medium,low,7,spaceship,,,30/09/2026 01:35
+18bda8d5-2af9-4bdf-b592-606e142c881a,paw.voto,available,10.55,55.93,high,low,3,spaceship,,,30/09/2026 01:49
 7f26891e-371b-4efe-97dc-a5eb22210344,bacchanal.voto,available,11.98,86.98,high,low,9,namecheap,,,08/08/2026 04:14
 985408bc-b04d-4e0a-9627-988f5c8ce95a,lysogenic.voto,available,11.98,86.98,medium,low,9,namecheap,,,24/08/2026 12:42
 3a8cebfe-4dc1-4154-90f2-cd11b1d7a7ad,addled.voto,available,11.98,86.98,medium,low,6,namecheap,,,
@@ -609,6 +677,7 @@ a2126bca-72dc-4748-93a1-5c128bead9f8,qualities.voto,available,26.5,,medium,low,9
 c7f403c8-d156-4a92-a009-cba1b36f9445,gip.voto,available,11.98,86.98,medium,low,3,namecheap,,,14/09/2026 08:07
 c43efe56-8922-409c-9feb-a25efa32c4d0,blackmailing.voto,available,19.99,,medium,low,12,name.com,,,
 d020fea7-9750-4389-ad88-cb0377550958,ark.voto,available,11.98,86.98,high,medium,3,namecheap,,,20/09/2026 06:09
+75bdc176-df5d-445d-b5df-14a74df675c7,slammed.voto,available,10.55,55.93,medium,low,7,spaceship,,,30/09/2026 03:50
 5b70f308-93b8-4cad-a1e4-c2a66034f25c,relationship.voto,available,19.99,,high,low,12,name.com,,,
 cd8ce8ca-96d3-41ca-bf62-6b3195bdf111,bedside.voto,available,11.98,86.98,high,low,7,namecheap,,,22/09/2026 23:34
 ceec4033-17e9-4b64-a6c3-e10d56b3a08b,hominid.voto,available,11.98,86.98,medium,low,7,namecheap,,,21/08/2026 12:39
@@ -621,6 +690,7 @@ cb8db940-21f3-48ff-abd8-29ab3114c9ff,whimsey.voto,available,11.98,86.98,medium,l
 85cd44e9-a310-40c8-8104-7378e1731801,arboreous.voto,available,11.98,86.98,medium,low,9,namecheap,,,06/08/2026 12:59
 95fa6239-142c-4105-8bc5-dfea9545c196,atonal.voto,available,11.98,86.98,medium,low,6,namecheap,,,07/08/2026 13:46
 d197836c-02e2-4b5d-8cf5-8632b3b78eb5,grump.voto,available,11.98,86.98,medium,low,5,namecheap,,,13/08/2026 04:58
+1ca81d03-1b28-42ef-b84e-8e3a32ca16bc,indicator.voto,available,10.55,55.93,high,low,9,spaceship,,,29/09/2026 19:19
 b2227745-9ce1-41c4-8ac1-8baa1ce1c8a2,moi.voto,available,19.99,,high,low,3,name.com,,,
 5cc450db-4d05-4288-af74-a9d2b11e6ca1,bumper.voto,available,11.98,86.98,high,low,6,namecheap,,,24/09/2026 11:09
 066e27dd-a13a-4f5b-9ad0-9185b5449f6e,properties.voto,available,19.99,,high,low,10,name.com,,,
@@ -629,10 +699,11 @@ b2227745-9ce1-41c4-8ac1-8baa1ce1c8a2,moi.voto,available,19.99,,high,low,3,name.c
 c6a0c2fe-a496-4cdc-9fb8-a0090bf82023,outdoorsy.voto,available,11.98,86.98,high,low,9,namecheap,,,04/09/2026 19:14
 62b552b2-cdcd-4934-bec4-a60b86ac3ccc,watched.voto,available,11.98,86.98,high,low,7,namecheap,,,18/09/2026 01:33
 0dccf777-e333-41a6-b7cd-b87463c96d3a,predict.voto,available,11.98,86.98,high,medium,7,namecheap,,,21/09/2026 03:41
+4034ab1b-9774-48c1-a3db-4e5222ed6993,exposing.voto,available,26.5,,medium,low,8,unstoppable,,,29/09/2026 10:25
 7d6fa423-96dc-414d-bceb-5d5141466839,superhuman.voto,available,11.98,86.98,high,low,10,namecheap,,,11/09/2026 02:16
 33ab929e-0bf2-4817-8cc4-fb3c053b27b7,adriatic.voto,available,11.98,86.98,high,low,8,namecheap,,,17/09/2026 10:03
 391da851-ca26-4746-887f-65d99b2e55ab,allspice.voto,available,11.98,86.98,high,low,8,namecheap,,,18/09/2026 12:10
-bf865ae7-4c61-40d6-9e6b-543b4b65d3d8,tasking.voto,available,19.99,,medium,low,7,name.com,,,
+bf865ae7-4c61-40d6-9e6b-543b4b65d3d8,tasking.voto,available,19.99,,high,low,7,name.com,,,
 c1af1ba9-2a06-46d5-915f-8b5ca6afeeb3,lunchboxes.voto,available,11.98,86.98,medium,low,10,namecheap,,,21/09/2026 09:13
 7155f206-825d-4270-95d2-9bfa39810d2c,introspections.voto,available,19.99,,low,low,14,name.com,,,
 36460d93-be0e-4996-a5fe-2dfd623a5d86,nonuple.voto,available,11.98,86.98,low,low,7,namecheap,,,03/09/2026 17:30
@@ -640,8 +711,10 @@ d723d779-253a-42ab-b72c-d9836e7c3bbe,additive.voto,available,11.98,86.98,high,lo
 bbe12a88-9998-4418-a43b-5e982a2d9906,regally.voto,available,11.98,86.98,medium,low,7,namecheap,,,15/09/2026 22:55
 5c802f7e-7f16-46c0-baff-a4350d75658e,tux.voto,available,19.99,102.99,high,low,3,name.com,,,24/09/2026 01:52
 4dfeec7a-005f-4169-8da8-8c160669e114,nico.voto,available,10.55,55.93,high,medium,4,spaceship,,,29/09/2026 03:41
+4275f5be-c906-4333-86e6-3a8818d415b9,rift.voto,available,10.81,56.13,high,low,4,porkbun,,,30/09/2026 01:35
 e7b99ad1-d2a3-4ec7-aaa0-9b365b0d2ee1,bleb.voto,available,11.98,86.98,medium,low,4,namecheap,,,24/09/2026 05:21
-ce08adb0-87d2-4731-a88f-04dccfe1ab7e,homeland.voto,available,10.55,55.93,medium,low,8,spaceship,,,28/09/2026 09:28
+ce08adb0-87d2-4731-a88f-04dccfe1ab7e,homeland.voto,available,10.55,55.93,high,low,8,spaceship,,,28/09/2026 09:28
+42e753f0-2f02-42da-91dc-6cb6bae993ce,motherhood.voto,available,26.5,,high,low,10,unstoppable,,,29/09/2026 19:42
 7c3f4642-7907-4dc2-8844-32f1ec12fb79,unweaned.voto,available,11.98,86.98,low,low,8,namecheap,,,12/09/2026 22:29
 2b2c17e4-eea6-424b-bb40-ebcb1926301a,protection.voto,available,11.98,86.98,high,low,10,namecheap,,,19/09/2026 09:47
 902718c6-5c99-4d5a-ae19-39cbd3668afa,csa.voto,available,10.55,55.93,high,low,3,spaceship,,,27/09/2026 17:26
@@ -651,13 +724,13 @@ a8b9b170-4a87-483e-8abd-4972ec1de086,abdominous.voto,available,11.98,86.98,mediu
 1f7f504b-e968-4ebc-8986-5e7de4886f02,squat.voto,available,11.98,86.98,high,low,5,namecheap,,,25/09/2026 15:16
 6c855a81-d9e6-4b60-b237-61e1d68d0345,into.voto,available,19.99,,high,low,4,name.com,,,
 a15df358-9d54-4408-a3dd-ce4b34042539,dinkey.voto,available,11.98,86.98,medium,low,6,namecheap,,,14/08/2026 08:16
-f5f27af2-e076-4538-a082-b41a5979298f,eggs.voto,available,19.99,,high,low,4,name.com,,,
+f5f27af2-e076-4538-a082-b41a5979298f,eggs.voto,available,26.5,,high,low,4,unstoppable,,,29/09/2026 17:47
 047ae58c-8d5b-4a8f-8128-bcfd5672582a,carnegie.voto,available,11.98,86.98,high,low,8,namecheap,,,19/09/2026 04:42
 b6c4d66f-8d35-46a3-957c-0314353e34b1,nicaean.voto,available,11.98,86.98,medium,low,7,namecheap,,,03/09/2026 16:59
 09304c7c-6fb3-4195-804f-025e10998ab5,pyretic.voto,available,11.98,86.98,medium,low,7,namecheap,,,09/09/2026 07:03
 fa462cf1-a04c-405a-a939-787c31e9c226,closet.voto,available,11.98,86.98,high,low,6,namecheap,,,24/09/2026 15:59
 9159de8a-8e16-4732-8633-33a1eb6fd083,moron.voto,available,11.98,86.98,medium,low,5,namecheap,,,21/08/2026 20:28
-f49ee2bf-5a1e-43d1-abd4-6b4e4d71d5eb,circus.voto,available,19.99,,high,low,6,name.com,,,
+f49ee2bf-5a1e-43d1-abd4-6b4e4d71d5eb,circus.voto,available,10.55,55.93,high,low,6,spaceship,,,29/09/2026 09:23
 6b3f1de9-9531-4a82-9774-f492c88a92b9,fungoid.voto,available,11.98,86.98,medium,low,7,namecheap,,,18/08/2026 18:37
 c27d5947-3aae-49ae-818a-54c9354f4651,lobar.voto,available,11.98,86.98,medium,low,5,namecheap,,,24/08/2026 08:33
 99a9eea5-4936-4b97-ba3b-91221409f641,everyone.voto,available,19.99,,high,low,8,name.com,,,
@@ -675,10 +748,12 @@ cc2fb40f-8272-43b4-841d-b7f1156676ee,weil.voto,available,11.98,86.98,medium,low,
 0c05f4f3-2230-409c-8adf-7cd221a6a879,jolted.voto,available,11.98,86.98,medium,low,6,namecheap,,,22/08/2026 13:55
 14a77cb5-9b3a-48b2-b3c6-02d759d01382,autoimmune.voto,available,11.98,86.98,medium,low,10,namecheap,,,07/08/2026 20:32
 ceb310d5-2a35-49e7-af54-2b2c8bcd3ccd,fusiform.voto,available,11.98,86.98,medium,low,8,namecheap,,,12/08/2026 08:02
+8c04d69f-7cbe-44d8-96c6-d91bc6f805a2,alexei.voto,available,11.98,86.98,high,low,6,namecheap,,,29/09/2026 10:07
 d438b608-dfc5-4b57-aa81-9336a910a394,concealing.voto,available,11.98,86.98,high,low,10,namecheap,,,12/08/2026 19:52
-cba19afe-be48-49b2-8ae9-42b4abb3835f,morally.voto,available,11.98,86.98,medium,low,7,namecheap,,,15/09/2026 15:25
+cba19afe-be48-49b2-8ae9-42b4abb3835f,morally.voto,available,11.98,86.98,high,low,7,namecheap,,,15/09/2026 15:25
 165b5f1b-3b62-404c-b0c5-caf510ddb3b4,impacted.voto,available,11.98,86.98,medium,low,8,namecheap,,,21/08/2026 21:36
 cb2374f3-d0a8-409d-a739-7de85dcee7e6,cheetos.voto,available,11.98,86.98,high,low,7,namecheap,,,21/09/2026 04:04
+5a6b8a9a-0e68-4e12-8f8d-a558aef44883,horrors.voto,available,10.92,58,medium,low,7,dynadot,,,30/09/2026 00:17
 f6e380f8-4d0c-472d-a74e-3e18698527d4,forbid.voto,available,11.98,86.98,medium,low,6,namecheap,,,28/09/2026 10:33
 d42eaad0-b87f-408b-b323-e4f9fd55d317,recurring.voto,available,11.98,86.98,high,low,9,namecheap,,,09/09/2026 11:58
 c679fc43-6b59-4cdb-9a0a-407134786d03,fleeting.voto,available,11.98,86.98,high,low,8,namecheap,,,18/08/2026 07:51
@@ -688,15 +763,16 @@ f8629248-87b2-44f8-90b9-cb80775763e4,accredited.voto,available,11.98,86.98,high,
 60af9870-c424-4844-bafa-62e215d02a96,charts.voto,available,11.98,86.98,high,low,6,namecheap,,,18/09/2026 23:12
 9f821de1-3c40-4d1f-b68b-b3abd52065d9,beamish.voto,available,11.98,86.98,medium,low,7,namecheap,,,09/08/2026 04:08
 a92f9f0a-6dd9-4e74-a03a-7cbe2f3e1c8c,plantar.voto,available,11.98,86.98,medium,low,7,namecheap,,,08/09/2026 20:50
-5d813f9c-ab9a-4b15-bdc5-070abdc1649c,awestruck.voto,available,11.98,86.98,medium,low,9,namecheap,,,08/08/2026 01:00
+5d813f9c-ab9a-4b15-bdc5-070abdc1649c,awestruck.voto,available,11.98,86.98,high,low,9,namecheap,,,08/08/2026 01:00
 54e1ceef-73dd-4394-8d4d-af9dab322ef2,prompts.voto,available,11.98,86.98,high,medium,7,namecheap,,,20/09/2026 08:06
 83cdc842-5b85-45e4-90a2-3ab31b9b52b4,arcturus.voto,available,11.98,86.98,medium,low,8,namecheap,,,20/09/2026 03:01
 a912863c-abfe-498f-9a2f-640f29e57430,magpie.voto,available,11.98,86.98,high,low,6,namecheap,,,21/09/2026 12:29
 b0f40dc1-b341-4040-b43d-8c08d7054c17,wishing.voto,available,19.99,,high,low,7,name.com,,,
 efde66fc-a764-4c6b-9bb2-99965ab0d536,adept.voto,available,11.98,86.98,high,low,5,namecheap,,,21/09/2026 17:17
 4eb8ddd9-4a04-4065-aa80-d8f91a6d0285,dedicate.voto,available,19.99,,high,low,8,name.com,,,
-81022a9c-86c3-4cd9-aad7-ed624f8b81d9,pillowcase.voto,available,19.99,,medium,low,11,name.com,,,
+81022a9c-86c3-4cd9-aad7-ed624f8b81d9,pillowcase.voto,available,19.99,,high,low,11,name.com,,,
 5eddc222-34b9-43a4-81c5-ad5c588f9c1b,pleading.voto,available,11.98,86.98,high,low,8,namecheap,,,09/08/2026 15:21
+c109f9ef-5083-48dd-9c39-fe207a11b4a0,cornerstone.voto,available,10.92,58,high,low,11,dynadot,,,29/09/2026 14:29
 467cc0a9-2a62-4eb1-b294-ade6b96745eb,abscissa.voto,available,11.98,86.98,medium,low,8,namecheap,,,16/09/2026 17:32
 072bf3fc-fdb1-4b2a-899f-2a03e6231925,assurance.voto,available,11.98,86.98,high,low,9,namecheap,,,20/09/2026 16:44
 ef341ee7-08b4-4c09-aae0-a1d2bf0192f5,conforming.voto,available,11.98,86.98,high,low,10,namecheap,,,12/08/2026 21:11
@@ -704,19 +780,18 @@ ef341ee7-08b4-4c09-aae0-a1d2bf0192f5,conforming.voto,available,11.98,86.98,high,
 1b44a9f8-edfa-4cb6-b84f-4aa4a93e001f,bolshie.voto,available,11.98,86.98,medium,low,7,namecheap,,,10/08/2026 17:55
 5409792c-0b37-4a6c-a674-b357565df630,paused.voto,available,11.98,86.98,medium,low,6,namecheap,,,18/09/2026 02:16
 f9075b38-829f-4bcf-a653-5dc21cb840ea,anshar.voto,available,11.98,86.98,medium,low,6,namecheap,,,19/09/2026 12:12
-25c4c410-de47-4a24-955c-aa7571743d9b,taiwan.voto,available,,,high,high,6,,,,
 49c638d6-92e9-4dfa-9077-d7c5d12c3460,aggressive.voto,available,19.99,102.99,high,low,10,name.com,,,21/09/2026 22:59
-c86106ac-cd1c-4c9a-aaed-0405704c31c3,unmanned.voto,available,11.98,86.98,medium,low,8,namecheap,,,09/09/2026 13:50
+c86106ac-cd1c-4c9a-aaed-0405704c31c3,unmanned.voto,available,11.98,86.98,high,low,8,namecheap,,,09/09/2026 13:50
 b86647a7-fb2d-44f0-9023-f59899c40076,bowls.voto,available,26.5,,high,low,5,unstoppable,,,29/09/2026 03:46
 c038b1b4-0de2-49b6-ab34-b9c8d0f6130f,shambolic.voto,available,11.98,86.98,medium,low,9,namecheap,,,10/09/2026 05:51
-497f5a45-fbf1-46d1-8029-aa6cd2fac290,ghent.voto,available,11.98,86.98,medium,low,5,namecheap,,,27/09/2026 04:10
+497f5a45-fbf1-46d1-8029-aa6cd2fac290,ghent.voto,available,11.98,86.98,high,low,5,namecheap,,,27/09/2026 04:10
 736888b9-68e5-4fe9-8d30-4d9cab42c25d,birdseed.voto,available,11.98,86.98,high,low,8,namecheap,,,23/09/2026 19:50
 6be08eca-8fa0-4b34-8f11-210f7f20ac5d,bosomed.voto,available,11.98,86.98,medium,low,7,namecheap,,,10/08/2026 20:23
 2a3c5062-5aec-48ff-b1d7-fb2518be95b5,haircuts.voto,available,11.98,86.98,medium,low,8,namecheap,,,21/09/2026 07:16
 bc72585d-5ac0-4f7f-9649-92df73534ed1,boethius.voto,available,11.98,86.98,medium,low,8,namecheap,,,19/09/2026 08:26
 709e73a7-cc62-49a7-aedb-01ded058f212,contention.voto,available,11.98,86.98,medium,low,10,namecheap,,,20/09/2026 04:48
 7c93d138-5a13-4234-8e3d-60cd90f881e4,sappy.voto,available,11.98,86.98,medium,low,5,namecheap,,,12/08/2026 14:56
-c174c39c-3e8e-4d36-83fc-744c1ce38f56,arlington.voto,premium,128.7,128.7,medium,low,9,namecheap,,,20/09/2026 06:16
+c174c39c-3e8e-4d36-83fc-744c1ce38f56,arlington.voto,premium,128.7,128.7,high,low,9,namecheap,,,20/09/2026 06:16
 78c4f0ee-6b41-4332-8c08-a607e99e9051,structures.voto,available,19.99,,medium,low,10,name.com,,,
 d5f2ac2d-a3fc-4e66-b9ca-91ab34dbc9ac,astrantia.voto,available,11.98,86.98,medium,low,9,namecheap,,,20/09/2026 17:32
 101c0666-5c18-4a60-b0e6-0192e62220c6,truer.voto,available,11.98,86.98,medium,low,5,namecheap,,,20/09/2026 05:56
@@ -729,7 +804,7 @@ ce62bcb3-7ad4-4afe-936c-f902b2e89782,angolan.voto,available,11.98,86.98,high,low
 d879a3f9-c62e-4a72-aa84-349dfa177a4c,tragedy.voto,available,11.98,86.98,medium,low,7,namecheap,,,24/09/2026 11:39
 c26394a4-73b5-4593-a953-cd2ce89d57e0,involving.voto,available,19.99,,medium,low,9,name.com,,,
 3cbfc055-6ef6-47ee-bcac-7df70b8269f1,tufted.voto,available,11.98,86.98,medium,low,6,namecheap,,,11/08/2026 13:14
-bba60059-0501-4afc-9a65-74171f038c42,citizen.voto,available,19.99,,high,low,7,name.com,,,
+bba60059-0501-4afc-9a65-74171f038c42,citizen.voto,available,10.55,55.93,high,low,7,spaceship,,,29/09/2026 09:28
 50636175-8100-450a-82ea-fc3d67293a32,clearance.voto,available,11.98,86.98,high,low,9,namecheap,,,08/09/2026 08:11
 2504b4a6-fc04-4e01-ba73-e2294246b049,edgeless.voto,available,11.98,86.98,medium,low,8,namecheap,,,15/08/2026 08:37
 46be24a4-cf29-458c-af2d-348a59786c5a,wily.voto,available,11.98,86.98,medium,low,4,namecheap,,,13/08/2026 04:38
@@ -740,12 +815,12 @@ cf7ede7e-7ffd-4cc8-a535-b6965feaa2d6,flooding.voto,available,26.5,,medium,low,8,
 bcaca347-cae4-42ef-b1d3-247861cf8c4a,dave.voto,available,19.99,,high,low,4,name.com,,,
 81959fce-3d30-4c46-bfb5-054a37e437be,alborg.voto,available,11.98,86.98,medium,low,6,namecheap,,,16/09/2026 13:12
 a622e6f2-9c2d-4225-a9df-274af8c7e790,become.voto,available,19.99,,high,low,6,name.com,,,
+e431ae32-48a9-4771-b809-256e86ddca41,painters.voto,available,10.55,55.93,medium,low,8,spaceship,,,29/09/2026 11:24
 84c84112-8fc0-4972-87da-19496e76437f,sooner.voto,available,11.98,86.98,high,low,6,namecheap,,,15/09/2026 21:16
-699004b2-b913-4cda-be88-b72b37f2ea8c,feeler.voto,available,11.98,86.98,medium,low,6,namecheap,,,22/09/2026 04:48
+699004b2-b913-4cda-be88-b72b37f2ea8c,feeler.voto,available,11.98,86.98,high,low,6,namecheap,,,22/09/2026 04:48
 b24106d8-7972-49e0-9db1-48e9245a371c,coloured.voto,available,11.98,86.98,high,low,8,namecheap,,,22/09/2026 20:29
 8cabf921-be7c-48ad-afed-1384995437a4,acheron.voto,available,11.98,86.98,medium,low,7,namecheap,,,17/09/2026 00:29
 eb83a1a2-eab0-45db-ad18-29e21c4f5389,hovers.voto,available,11.98,86.98,medium,low,6,namecheap,,,21/09/2026 10:26
-cc8be980-03ea-46a0-b8b6-0016fe172fbc,coffee.voto,available,19.99,,high,medium,6,name.com,,,
 9ed5b3df-09e5-4f92-89a2-cecfdc5e03bc,indecent.voto,available,11.98,86.98,medium,low,8,namecheap,,,25/09/2026 09:06
 dbd093dc-2ea8-4e01-bfe1-6d2646c41a57,otiose.voto,available,11.98,86.98,medium,low,6,namecheap,,,17/08/2026 20:56
 25505202-91e1-4908-a9d7-f71e6aae3405,sundays.voto,available,11.98,86.98,high,low,7,namecheap,,,18/09/2026 10:50
@@ -753,6 +828,7 @@ dbd093dc-2ea8-4e01-bfe1-6d2646c41a57,otiose.voto,available,11.98,86.98,medium,lo
 512f0513-0188-4742-992e-209d498b8503,medial.voto,available,11.98,86.98,high,low,6,namecheap,,,24/08/2026 18:51
 3d1cf96f-0e77-4c79-87d9-f679770a5ca1,neill.voto,available,26.5,,medium,low,5,unstoppable,,,28/09/2026 23:29
 5e2297b8-87f7-40fb-be7a-bc37f101f02f,grub.voto,available,11.98,86.98,high,low,4,namecheap,,,11/08/2026 09:30
+90f871a4-b2ed-484c-a2bf-d9ec28b05ad9,specimens.voto,available,10.55,55.93,medium,low,9,spaceship,,,29/09/2026 16:57
 1824b7e0-7ab0-4747-a888-694243235d83,marriages.voto,available,10.55,55.93,medium,low,9,spaceship,,,28/09/2026 18:09
 b3dc30d5-aae2-44a0-859a-58364e5b8f23,birdbath.voto,available,11.98,86.98,high,low,8,namecheap,,,23/09/2026 20:31
 f05ed0c8-6943-4932-a038-ea37e495a1e5,fascist.voto,available,11.98,86.98,medium,low,7,namecheap,,,17/08/2026 22:58
@@ -762,12 +838,16 @@ f05ed0c8-6943-4932-a038-ea37e495a1e5,fascist.voto,available,11.98,86.98,medium,l
 6d7df163-c412-4474-b556-0dbd09a7b0f2,melanesian.voto,available,11.98,86.98,medium,low,10,namecheap,,,24/08/2026 19:29
 6dfc0e56-322c-4384-ae0e-c27d6e783963,lucania.voto,available,11.98,86.98,medium,low,7,namecheap,,,22/09/2026 10:51
 4c015304-0abd-46de-b55f-18bb2921375e,detectable.voto,available,11.98,86.98,high,low,10,namecheap,,,14/08/2026 04:42
+7a47e43b-453e-4538-ab2c-c1ba52d0acf5,combining.voto,available,26.5,,high,low,9,unstoppable,,,29/09/2026 18:23
 b7d5aac1-40b8-4b85-bf3d-b1771af3d2ec,winter.voto,available,11.98,86.98,high,low,6,namecheap,,,25/09/2026 11:04
+101e47de-1b68-427d-b828-e00e44e2acdf,lodging.voto,available,10.55,55.93,high,low,7,spaceship,,,30/09/2026 01:55
 83432a88-ff72-41b3-9484-18bc14158f78,disastrous.voto,available,11.98,86.98,medium,low,10,namecheap,,,11/08/2026 13:30
 faaa9063-01a1-4754-8b5f-d7020db3df26,endeavour.voto,available,11.98,86.98,high,low,9,namecheap,,,21/09/2026 01:16
 32af7ed6-7a73-4a23-9e7c-821b5321ec97,acrostic.voto,available,11.98,86.98,medium,low,8,namecheap,,,17/09/2026 03:59
+3f7508e6-5731-43c5-8eca-b09e9d420eec,gaia.voto,available,10.55,55.93,high,medium,4,spaceship,,,29/09/2026 18:59
 56e2056d-52ee-434a-bb73-1d72c45c7d9d,loser.voto,available,11.98,86.98,medium,low,5,namecheap,,,18/09/2026 14:19
-75ccbde7-5091-49a9-a797-d19cf09278c6,relocated.voto,available,11.98,86.98,medium,low,9,namecheap,,,09/09/2026 13:39
+68e724dc-569d-4bca-812f-0c12b64f6582,trails.voto,available,26.5,,high,low,6,unstoppable,,,29/09/2026 11:32
+75ccbde7-5091-49a9-a797-d19cf09278c6,relocated.voto,available,11.98,86.98,high,low,9,namecheap,,,09/09/2026 13:39
 ff2eb1d6-12ff-4b42-9384-657c4cbce7aa,osmotic.voto,available,11.98,86.98,medium,low,7,namecheap,,,04/09/2026 18:15
 0302fba5-cce4-4c21-b020-acf7f595e5ea,positively.voto,available,11.98,86.98,high,low,10,namecheap,,,15/09/2026 21:03
 2468404e-477d-4dc2-b646-49ff590e6171,resident.voto,available,11.98,86.98,high,low,8,namecheap,,,03/09/2026 19:51
@@ -779,6 +859,7 @@ ff2eb1d6-12ff-4b42-9384-657c4cbce7aa,osmotic.voto,available,11.98,86.98,medium,l
 d0bd96ab-f6dd-4fcd-88ac-4b375c02c618,lazuline.voto,available,11.98,86.98,medium,low,8,namecheap,,,08/08/2026 03:18
 0d274601-9216-4924-b835-d14464dfee0c,garrulous.voto,available,11.98,86.98,medium,low,9,namecheap,,,12/08/2026 03:20
 1177124b-9371-4a0a-a10f-72637101b19c,ordinal.voto,available,11.98,86.98,high,low,7,namecheap,,,04/09/2026 17:44
+108e85da-d9e0-44d6-8517-0b6cdbc9e2ef,nys.voto,available,10.92,58,high,low,3,dynadot,,,29/09/2026 15:44
 14b918aa-c815-4bf7-909c-ef99f8f931df,ult.voto,available,11.98,86.98,high,low,3,namecheap,,,11/09/2026 22:48
 397b092d-c0a9-4a86-be03-61423b13c47c,sable.voto,available,11.98,86.98,high,low,5,namecheap,,,14/08/2026 23:11
 c0df81dc-ab67-4a04-aacb-57852c586fac,undecided.voto,available,11.98,86.98,high,low,9,namecheap,,,04/09/2026 14:20
@@ -786,12 +867,14 @@ c0df81dc-ab67-4a04-aacb-57852c586fac,undecided.voto,available,11.98,86.98,high,l
 e225bb38-0ed6-4b16-9db1-dcbb2e0c8593,antimony.voto,available,11.98,86.98,medium,low,8,namecheap,,,19/09/2026 14:45
 81d2b2a8-b0cd-4230-b4a4-af15229b8b79,armies.voto,available,10.55,55.93,medium,low,6,spaceship,,,28/09/2026 17:38
 e71a50e3-6e6b-43d4-a806-032500a07be4,salaried.voto,available,11.98,86.98,high,low,8,namecheap,,,12/08/2026 19:23
-cd2abc60-369b-4c37-897e-6ef334cca912,fiend.voto,available,11.98,86.98,medium,low,5,namecheap,,,17/08/2026 21:54
-638fb5c1-70b8-4bb4-857f-3496ccd5b6e2,warp.voto,available,19.99,,high,medium,4,name.com,,,
-36f983e4-ff6b-4be2-abd6-d7e46c7da0bd,animating.voto,available,11.98,86.98,high,low,9,namecheap,,,22/09/2026 05:08
+cd2abc60-369b-4c37-897e-6ef334cca912,fiend.voto,available,11.98,86.98,high,low,5,namecheap,,,17/08/2026 21:54
+638fb5c1-70b8-4bb4-857f-3496ccd5b6e2,warp.voto,available,10.55,55.93,high,medium,4,spaceship,,,29/09/2026 13:37
+603631fd-1c6b-4dbf-ac28-79ceee9ae3a0,seaman.voto,available,19.99,107.99,high,low,6,godaddy,,,30/09/2026 01:29
+36f983e4-ff6b-4be2-abd6-d7e46c7da0bd,animating.voto,available,10.55,55.93,high,low,9,spaceship,,,29/09/2026 05:09
 b32c2a16-0ee5-4832-84f4-09dd3221d5db,hesse.voto,available,11.98,86.98,high,low,5,namecheap,,,27/09/2026 04:26
 af50af2a-599f-40e3-a160-fbf39461fd65,spinning.voto,available,11.98,86.98,high,low,8,namecheap,,,27/09/2026 05:29
 bdc87329-1735-49bf-825c-4a68d573dce7,deplorable.voto,available,11.98,86.98,medium,low,10,namecheap,,,12/08/2026 20:22
+6f05f7bf-9744-4b1a-aebf-4bfac2e5bc25,fielding.voto,available,10.55,55.93,high,low,8,spaceship,,,29/09/2026 06:54
 2e20592f-42b2-496d-9e30-c1dee34cdeb7,unbordered.voto,available,11.98,86.98,medium,low,10,namecheap,,,12/09/2026 02:21
 f1378212-b220-46e9-9fbd-266fd6c84952,kathy.voto,available,10.55,55.93,high,low,5,spaceship,,,27/09/2026 19:14
 a7897dc3-7423-4ee5-98ce-e6fa4bcb7800,jean.voto,available,10.92,58,high,low,4,dynadot,,,28/09/2026 01:02
@@ -802,33 +885,38 @@ bced6b6f-f11f-4392-a93b-7b0259b63c85,bartholdi.voto,available,11.98,86.98,medium
 fa8e5a58-ad25-481f-8573-e5eea73146cf,err.voto,available,19.99,,high,low,3,name.com,,,
 ae7e3b27-cc1b-47ef-84ef-ccc8d73ec328,electric.voto,available,11.98,86.98,high,low,8,namecheap,,,24/09/2026 13:44
 6e655edf-7fa4-493e-8d08-e91ad22648b3,imprisoned.voto,available,11.98,86.98,medium,low,10,namecheap,,,11/08/2026 18:22
-37deb5e9-4564-4c93-b7f5-8a35e431a1e2,youth.voto,premium,625,,high,low,5,name.com,,,
+37deb5e9-4564-4c93-b7f5-8a35e431a1e2,youth.voto,premium,550,550,high,low,5,dynadot,,,29/09/2026 17:26
 cb4361eb-cdba-4f67-b6c5-1162b317e68e,indictment.voto,available,11.98,86.98,medium,low,10,namecheap,,,23/09/2026 16:05
 3d25716c-45aa-443c-809e-b1bb6f99dfce,dictated.voto,available,11.98,86.98,medium,low,8,namecheap,,,14/08/2026 06:36
 29304506-a6d4-49cc-8e80-38f98d6c47dd,sublimely.voto,available,11.98,86.98,medium,low,9,namecheap,,,16/09/2026 07:34
 6eb3b179-aea7-4149-bb9d-3d45e4dba169,unpatented.voto,available,11.98,86.98,medium,low,10,namecheap,,,12/09/2026 16:29
 1df58593-dcff-459d-b624-bef6eb002e99,exilic.voto,available,11.98,86.98,medium,low,6,namecheap,,,17/08/2026 17:19
+b87bfdf4-a78d-41b8-81e5-6e548c5d5f00,satin.voto,available,26.5,,high,low,5,unstoppable,,,30/09/2026 02:46
 3c97c87f-e42b-43ed-8d20-a37a15aa1f15,insofar.voto,available,11.98,86.98,medium,low,7,namecheap,,,15/09/2026 06:43
-3d392d5d-9d83-415f-a34a-0f99c852ac22,childhood.voto,available,19.99,,high,low,9,name.com,,,
+3d392d5d-9d83-415f-a34a-0f99c852ac22,childhood.voto,available,10.55,55.93,high,low,9,spaceship,,,29/09/2026 08:38
 2c785f1b-36fa-4e73-8f8e-a277aa95fcee,fearsome.voto,available,11.98,86.98,medium,low,8,namecheap,,,14/08/2026 08:55
 c3cc68a0-ce14-4b90-9159-8b17ce5bfe62,odor.voto,available,11.98,86.98,high,low,4,namecheap,,,20/09/2026 08:25
+8a360ba5-80a5-4967-9978-449aebfdf502,measurements.voto,available,11.98,86.98,medium,low,12,namecheap,,,29/09/2026 11:24
 ecb854c8-cbfe-4031-b501-9602b9524642,phosphorus.voto,available,11.98,86.98,medium,low,10,namecheap,,,20/09/2026 22:25
-a880bcaa-cb99-4b51-b9ba-87e4a91a47db,musset.voto,available,11.98,86.98,medium,low,6,namecheap,,,18/09/2026 06:29
+a880bcaa-cb99-4b51-b9ba-87e4a91a47db,musset.voto,available,11.98,86.98,high,low,6,namecheap,,,18/09/2026 06:29
 f1b89eec-2356-42f6-8c51-2140c97db0fb,cohn.voto,available,19.99,107.99,medium,low,4,godaddy,,,28/09/2026 01:41
 a4ae3ab1-b8e7-44f4-b04c-f408f8974fab,gall.voto,available,11.98,86.98,medium,low,4,namecheap,,,23/09/2026 15:42
 9d8390e9-d272-455b-b9c1-6293ed47277e,vertical.voto,available,11.98,86.98,high,low,8,namecheap,,,24/09/2026 14:52
+24636928-3e88-44a6-8e98-11c278110ab1,orville.voto,available,10.55,55.93,high,low,7,spaceship,,,29/09/2026 09:46
 ae09aecd-7b80-47d0-b800-1dfea5582460,exodus.voto,available,11.98,86.98,high,low,6,namecheap,,,24/09/2026 06:52
 d0a585a1-a3bd-497e-8b81-90df4ad3a360,asshole.voto,available,11.98,86.98,medium,low,7,namecheap,,,08/08/2026 23:24
 b49346b2-b108-411a-8087-dda93dd2861a,puberty.voto,available,26.5,,high,low,7,unstoppable,,,29/09/2026 02:00
 b11a8b94-7c64-422f-b6d0-53de68769cc9,because.voto,available,19.99,,high,low,7,name.com,,,
 3efd10a1-3e5f-4934-a69c-5fd2bceded45,arui.voto,available,11.98,86.98,medium,low,4,namecheap,,,18/09/2026 22:15
-a3c1d792-ae70-4c51-903e-fd141875c97a,guide.voto,available,19.99,,high,low,5,name.com,,,
+a3c1d792-ae70-4c51-903e-fd141875c97a,guide.voto,available,26.5,,high,low,5,unstoppable,,,29/09/2026 21:42
 6a4041a3-45ad-4f92-9cb3-2bb131e2d562,sasquatch.voto,available,11.98,86.98,high,low,9,namecheap,,,23/09/2026 15:07
 9d8b87ec-168a-4be5-9bd9-a3827df6ec5f,look.voto,available,11.98,86.98,high,low,4,namecheap,,,24/09/2026 21:51
 749a1ec5-d67e-42fd-a1d4-2a21d873e0f3,carven.voto,available,11.98,86.98,medium,low,6,namecheap,,,11/08/2026 19:59
 e4a5269d-0d30-45ee-9a24-fb8e88396fdc,smile.voto,available,11.98,86.98,high,medium,5,namecheap,,,27/09/2026 22:59
+8a81b8a8-ad6e-413f-969e-23081a4a69ef,webber.voto,available,10.81,56.13,high,low,6,porkbun,,,29/09/2026 15:02
 bab13c80-381b-4ee8-8e23-7b352a2b23d0,pivot.voto,available,19.99,,high,low,5,name.com,,,
-97b7c670-cdf5-4bbe-8511-2796f9c08364,plucked.voto,available,11.98,86.98,medium,low,7,namecheap,,,08/09/2026 21:28
+206610f8-f66f-4c25-9f29-c37546c954aa,savannah.voto,premium,102.67,102.67,high,low,8,spaceship,,,30/09/2026 02:47
+97b7c670-cdf5-4bbe-8511-2796f9c08364,plucked.voto,available,11.98,86.98,high,low,7,namecheap,,,08/09/2026 21:28
 6fd67fa3-8627-42f0-999b-2cd52ad3bc9a,thankfully.voto,available,11.98,86.98,high,low,10,namecheap,,,16/09/2026 08:28
 b81b331a-219a-4dfe-81d0-fb8a36953d18,amidships.voto,available,11.98,86.98,medium,low,9,namecheap,,,
 8eb0fe9e-f63c-47c6-88d1-46fd360dd412,upriver.voto,available,11.98,86.98,medium,low,7,namecheap,,,12/09/2026 23:26
@@ -841,9 +929,9 @@ ba9a8c0e-1752-42ca-a1ee-231abb905734,jerry.voto,available,26.5,,high,low,5,unsto
 87c5fd87-a3b2-464f-9fff-4fe72254af84,education.voto,premium,102.67,102.67,high,low,9,spaceship,,,28/09/2026 03:03
 5646f720-157b-4aa6-bfcd-920a7e3ff914,separable.voto,available,11.98,86.98,medium,low,9,namecheap,,,14/08/2026 12:50
 76e708a8-35a7-49fb-9717-5b648d46d3c4,practicing.voto,available,19.99,,high,low,10,name.com,,,
-1fe2f18e-3b92-4c56-8855-13d87c69bbee,leather.voto,available,19.99,,high,low,7,name.com,,,
+1fe2f18e-3b92-4c56-8855-13d87c69bbee,leather.voto,available,10.55,55.93,high,low,7,spaceship,,,30/09/2026 02:35
 f3b44140-88f8-4c10-a12f-d5418ddf9786,refuses.voto,available,10.81,56.13,low,low,7,porkbun,,,28/09/2026 09:00
-70488439-00d7-4276-94b8-255f13c9291f,event.voto,available,11.98,86.98,high,medium,5,namecheap,,,25/09/2026 05:15
+70488439-00d7-4276-94b8-255f13c9291f,event.voto,available,10.55,55.93,high,medium,5,spaceship,,,29/09/2026 08:05
 a9568a91-ac1d-4d96-a1fe-067bcbfe283e,effeminate.voto,available,11.98,86.98,medium,low,10,namecheap,,,12/08/2026 08:34
 736934fb-2612-4e6f-8a56-0aa79375ccab,maniac.voto,available,11.98,86.98,high,low,6,namecheap,,,24/08/2026 11:21
 ebf96ac0-d03a-4cad-9d7b-5ad0d04dbd6a,bees.voto,available,11.98,86.98,high,low,4,namecheap,,,18/09/2026 21:40
@@ -851,6 +939,8 @@ ebf96ac0-d03a-4cad-9d7b-5ad0d04dbd6a,bees.voto,available,11.98,86.98,high,low,4,
 a85c0f30-08a2-4bae-949e-aee787c72e90,populace.voto,available,11.98,86.98,high,low,8,namecheap,,,09/09/2026 05:22
 1e584050-880a-4e6e-9ffb-e5ffd02e55c4,aerator.voto,available,11.98,86.98,medium,low,7,namecheap,,,17/09/2026 12:47
 f15e3f4d-5df6-49c5-b3f6-4d5a6dd5c56d,idly.voto,available,11.98,86.98,high,low,4,namecheap,,,15/09/2026 01:38
+efb027ff-9cb5-4c41-a125-ecd10aa11d69,imagining.voto,available,10.55,55.93,high,low,9,spaceship,,,29/09/2026 14:49
+b915f57a-d576-4cbc-86c6-29a05c743642,cartridge.voto,available,10.92,58,high,low,9,dynadot,,,29/09/2026 18:14
 8716d883-c417-42b0-a100-5f9e9fb9b447,distribution.voto,available,26.5,86.98,high,low,12,unstoppable,,,28/09/2026 04:51
 d49c96e1-e774-411b-8ebe-37c8bb7d7fb6,hexed.voto,available,11.98,86.98,medium,low,5,namecheap,,,21/08/2026 07:51
 5cc35be0-09c6-416c-9003-d08a07874794,wimpy.voto,available,11.98,86.98,medium,low,5,namecheap,,,13/09/2026 12:06
@@ -871,23 +961,25 @@ f73e6c38-f119-4f8c-ad2b-fb673f2f96ca,monkfish.voto,available,11.98,86.98,medium,
 d7338585-a324-4353-b30f-e660793e3db6,macrocosm.voto,available,11.98,86.98,high,low,9,namecheap,,,13/09/2026 13:17
 8b196bbc-cbaf-414d-96ba-ec936aa25eba,yellowish.voto,available,11.98,86.98,high,low,9,namecheap,,,13/09/2026 13:59
 c51b00d1-1599-4b5b-bf8e-0617a560e5d0,grainy.voto,available,11.98,86.98,medium,low,6,namecheap,,,12/08/2026 14:00
+678aa1b8-460b-4eda-b568-0526f3a0a858,parliament.voto,available,10.55,55.93,high,low,10,spaceship,,,29/09/2026 07:49
 ec6533c3-49ce-4ffd-810c-478614f5480c,scripted.voto,available,10.55,55.93,high,low,8,spaceship,,,27/09/2026 18:42
 f70b1ccf-e10c-446a-abe4-ae0172adefb6,intuitive.voto,available,26.5,86.98,high,low,9,unstoppable,,,28/09/2026 06:01
 90f319ac-3653-41bb-adc3-8090f12c3e02,allergen.voto,available,11.98,86.98,high,low,8,namecheap,,,18/09/2026 10:53
 a8128643-864b-494c-bc9b-97217f4396f1,fodder.voto,available,11.98,86.98,medium,low,6,namecheap,,,24/09/2026 12:05
 cf252486-e4e1-4ed7-8e51-804068af4d5e,sorts.voto,available,11.98,86.98,medium,low,5,namecheap,,,27/09/2026 10:13
-a1bacc7e-9fd7-4e18-b5ee-4cd03e9b8068,mordant.voto,available,11.98,86.98,medium,low,7,namecheap,,,13/08/2026 02:11
+a1bacc7e-9fd7-4e18-b5ee-4cd03e9b8068,mordant.voto,available,11.98,86.98,high,low,7,namecheap,,,13/08/2026 02:11
 f5837f97-1c39-4025-bb7f-aaf547e90a1a,shooter.voto,available,11.98,86.98,medium,low,7,namecheap,,,24/09/2026 19:04
 60cad605-305d-4f04-9590-790a68080650,monitor.voto,available,11.98,86.98,high,low,7,namecheap,,,28/09/2026 18:50
 c685f179-a07b-42af-8f65-67a4693cf2ce,preach.voto,available,26.5,,high,low,6,unstoppable,,,28/09/2026 15:35
 cda426a5-c033-4cf8-b3bd-e854cc1a090b,maintenance.voto,available,10.55,55.93,high,low,11,spaceship,,,27/09/2026 21:41
-9de717be-9298-4f53-96aa-a21a6a36d720,scandal.voto,available,19.99,,high,low,7,name.com,,,
+9de717be-9298-4f53-96aa-a21a6a36d720,scandal.voto,available,10.55,55.93,high,low,7,spaceship,,,30/09/2026 03:45
 dd58b1cc-2fc2-44af-a4b3-4a473a1845f4,reclaimed.voto,available,11.98,86.98,high,low,9,namecheap,,,09/09/2026 11:36
 5182600c-c1ac-4055-86a1-3d37d144d6ed,hahn.voto,available,11.98,86.98,high,low,4,namecheap,,,27/09/2026 04:20
 5dd0b299-be79-4e79-a2ea-298c9e7356a6,engaged.voto,available,11.98,86.98,high,low,7,namecheap,,,10/08/2026 19:07
 cc030aa6-6a79-4d88-913d-ce44da78845a,situations.voto,available,26.5,,medium,low,10,unstoppable,,,28/09/2026 04:50
 e3863a9f-c0b2-4ea2-a196-8044948067de,invested.voto,available,11.98,86.98,medium,low,8,namecheap,,,28/09/2026 13:01
 a72eada4-530f-4268-a625-7101201dbf9f,bentwood.voto,available,11.98,86.98,medium,low,8,namecheap,,,23/09/2026 08:47
+240c1c8a-a3a4-4eea-92b1-baf91b415fbe,yue.voto,available,10.55,55.93,high,low,3,spaceship,,,29/09/2026 18:11
 b55e9e02-0e51-4553-9c87-20242311e83f,theatre.voto,available,11.98,86.98,high,low,7,namecheap,,,24/09/2026 23:54
 87eb6e89-60e4-4b16-a78b-a3ca7e153f71,ticket.voto,available,11.98,86.98,high,low,6,namecheap,,,24/09/2026 18:18
 7b81f1d9-6ad5-4424-8cd5-6e416aaaa024,fluently.voto,available,11.98,86.98,high,low,8,namecheap,,,14/09/2026 19:08
@@ -903,99 +995,7 @@ ba6309f0-6b34-43ff-bcd0-4dea2978d64d,neptune.voto,available,10.55,55.93,high,low
 f74ff0a6-6b06-4233-8932-5ad646d3f049,abel.voto,available,11.98,86.98,high,low,4,namecheap,,,16/09/2026 14:57
 63332511-ad36-401c-b725-05e12a9067e5,cheryl.voto,available,11.98,86.98,medium,low,6,namecheap,,,27/09/2026 07:16
 3d21c26c-0dfa-402d-b057-181ad538efd8,mercurial.voto,available,11.98,86.98,high,low,9,namecheap,,,17/08/2026 12:50
-0696c2a6-a457-4520-b890-78dc5ea4157c,imported.voto,available,11.98,86.98,medium,low,8,namecheap,,,21/08/2026 22:48
-300e81b1-81cb-4092-9621-80240d3b0c2d,permissive.voto,available,11.98,86.98,medium,low,10,namecheap,,,08/09/2026 17:48
+0696c2a6-a457-4520-b890-78dc5ea4157c,imported.voto,available,11.98,86.98,high,low,8,namecheap,,,21/08/2026 22:48
+300e81b1-81cb-4092-9621-80240d3b0c2d,permissive.voto,available,11.98,86.98,high,low,10,namecheap,,,08/09/2026 17:48
 45188ca8-ef39-4945-881e-b32306bcaadf,acquirer.voto,available,11.98,86.98,medium,low,8,namecheap,,,17/09/2026 02:40
 99316d78-adb6-454f-af68-e7da2787d224,phoenician.voto,available,11.98,86.98,high,low,10,namecheap,,,08/09/2026 19:00
-ddbd76c2-f98e-43dc-8fdf-5799a2b95d47,rusted.voto,available,11.98,86.98,medium,low,6,namecheap,,,09/09/2026 20:17
-74eede1a-b593-4f15-9158-9b903d44891f,artemis.voto,available,11.98,86.98,high,medium,7,namecheap,,,20/09/2026 10:12
-cc6e9378-3df7-4bc2-a2e6-e10543faa4bd,olfactive.voto,available,11.98,86.98,medium,low,9,namecheap,,,04/09/2026 02:13
-d3bb5270-c8a7-4209-a50f-2a3892221a5f,aptness.voto,available,11.98,86.98,medium,low,7,namecheap,,,19/09/2026 22:03
-44dba233-8bcc-455e-bcc1-5811aed64d98,catalan.voto,available,11.98,86.98,high,low,7,namecheap,,,11/08/2026 20:50
-64db0d6c-4a86-4ab3-8459-aaf69ebcda03,sleekly.voto,available,11.98,86.98,medium,low,7,namecheap,,,16/09/2026 02:30
-190ad0bc-f489-4fef-b908-067ad40aa5ab,sleep.voto,available,11.98,86.98,high,medium,5,namecheap,,,25/09/2026 05:45
-25b0afeb-34d1-4cc3-808f-4ce4cf4e354b,cleave.voto,available,11.98,86.98,medium,low,6,namecheap,,,24/09/2026 15:43
-c6f2d7a7-5b0d-41d9-bdb1-e8e163ff1780,companion.voto,available,11.98,86.98,high,low,9,namecheap,,,24/09/2026 16:40
-6ad47424-bb56-4753-956e-082f1f25e13e,apocryphal.voto,available,11.98,86.98,medium,low,10,namecheap,,,06/08/2026 01:11
-f8d66793-e874-41c5-843e-d5279e226e97,raiser.voto,available,19.99,102.99,high,low,6,name.com,,,17/09/2026 19:22
-23e5ef67-62ec-4ba9-becc-be06e5bffb83,studying.voto,available,11.98,86.98,high,low,8,namecheap,,,25/09/2026 09:55
-75031971-62bf-43bf-9b68-b9c586213a89,rufus.voto,available,10.55,55.93,medium,low,5,spaceship,,,28/09/2026 16:19
-7615cfbb-ba16-41cf-8385-cece201eb215,unguided.voto,available,11.98,86.98,medium,low,8,namecheap,,,12/09/2026 11:41
-9072b906-5209-4dda-a770-c4568271a409,edited.voto,available,11.98,86.98,high,low,6,namecheap,,,15/08/2026 11:05
-616deeba-9547-4c7a-b6b5-a5ab799dc3d8,restaurant.voto,available,11.98,86.98,high,low,10,namecheap,,,25/09/2026 05:21
-25140339-71cd-4849-8d53-84b70b59ec23,rutgers.voto,available,11.98,86.98,high,low,7,namecheap,,,25/09/2026 20:41
-1c48743d-6d4d-4763-a91c-490771771475,chatterbox.voto,available,11.98,86.98,high,low,10,namecheap,,,21/09/2026 12:28
-03785440-68e4-4bd7-aa3d-8037f20289c4,vacuous.voto,available,11.98,86.98,low,low,7,namecheap,,,07/08/2026 02:52
-caef13de-f613-46d5-9c1e-491fc2ca3a52,joachim.voto,available,11.98,86.98,high,low,7,namecheap,,,27/09/2026 04:35
-b98164d5-af26-4555-89b1-5f503ffec1a5,arak.voto,available,11.98,86.98,medium,low,4,namecheap,,,19/09/2026 23:47
-8c44973d-45d4-4083-8512-530a5f741a5d,fitzroy.voto,available,10.92,58,medium,low,7,dynadot,,,28/09/2026 23:19
-25f6a187-21fe-43ae-a1c2-abd4e91e4a9a,frumpy.voto,available,11.98,86.98,medium,low,6,namecheap,,,18/08/2026 17:06
-38d5c756-e2e5-4512-9f4e-1e90c03f229a,tolerance.voto,available,10.55,55.93,high,low,9,spaceship,,,28/09/2026 20:10
-962026db-3459-487b-ac76-1659e1504e92,feels.voto,available,19.99,,high,low,5,name.com,,,
-2fc13406-d54c-4786-a379-7a94f8c03cce,ateles.voto,available,11.98,86.98,medium,low,6,namecheap,,,20/09/2026 20:01
-fc85c460-a8e9-4716-aa5d-e29190affb88,destinations.voto,available,11.98,86.98,high,low,12,namecheap,,,20/09/2026 11:44
-86576b3d-2cb9-4764-9a31-ee1f7c0a8a6e,sportswear.voto,available,11.98,86.98,high,low,10,namecheap,,,17/09/2026 05:14
-faa8dbf8-b232-4e12-8602-0b0e69e400f5,sutherland.voto,available,11.98,86.98,medium,low,10,namecheap,,,25/09/2026 04:37
-77001019-33fe-4c71-b7f6-3b8f0f998372,factories.voto,available,11.98,86.98,medium,low,9,namecheap,,,20/09/2026 05:09
-03d38a3b-9155-45a6-b6b0-77991f1caa53,evasive.voto,available,11.98,86.98,medium,low,7,namecheap,,,17/08/2026 14:47
-6b0b5ab8-933b-4ed3-a73b-38f108c9f1f7,elton.voto,available,10.92,58,high,low,5,dynadot,,,27/09/2026 19:29
-6db5a24e-716f-466a-8bb4-22bdfa58e315,ito.voto,available,10.55,55.93,medium,low,3,spaceship,,,28/09/2026 08:05
-d8b0bf4d-0960-409d-b505-8c4968809ac9,bind.voto,available,11.98,86.98,high,low,4,namecheap,,,22/09/2026 00:54
-c1c05db5-defa-4eed-948c-c0c2d1be17a4,alleviant.voto,available,11.98,86.98,high,low,9,namecheap,,,04/09/2026 23:46
-c20119f1-4303-4642-8962-9ae0023acd49,jumps.voto,available,19.99,,high,low,5,name.com,,,
-f5280788-4a08-46be-b8ff-ff4228b84cdd,handiness.voto,available,11.98,86.98,medium,low,9,namecheap,,,16/09/2026 22:18
-4e44306d-434b-4343-b838-05e55f48bad4,alyssum.voto,available,11.98,86.98,medium,low,7,namecheap,,,18/09/2026 15:23
-5728fcdd-3044-4fba-9dcf-8ed2f320dcf0,narcotics.voto,available,26.5,,medium,low,9,unstoppable,,,28/09/2026 22:46
-dc49ab54-cf28-4e79-b525-7cdda887dbc3,scowling.voto,available,11.98,86.98,medium,low,8,namecheap,,,09/08/2026 08:33
-596bfad9-5685-40cc-ae71-e1d473d6481a,perceptive.voto,available,11.98,86.98,high,low,10,namecheap,,,08/09/2026 16:12
-5fa78040-5cff-4034-96b9-10c255234a9f,permutation.voto,available,19.99,,high,low,11,name.com,,,
-16ed4fa1-8a6b-426f-8d5f-72b61144e70b,apothegm.voto,available,11.98,86.98,medium,low,8,namecheap,,,19/09/2026 17:10
-1a83c84f-afcd-4879-8e6e-d5f46e5355ce,easy.voto,available,10.92,58,high,high,4,dynadot,,,28/09/2026 03:39
-8c3969bf-231e-426c-8793-a3f0620cc44a,flock.voto,available,11.98,86.98,high,low,5,namecheap,,,25/08/2026 00:21
-990c8645-d8c3-4088-bdf7-76c2b909e268,frick.voto,available,10.55,55.93,medium,low,5,spaceship,,,29/09/2026 01:01
-443ac4ef-0e57-4353-8b07-1faae3a21f36,granite.voto,available,10.92,58,high,low,7,dynadot,,,28/09/2026 19:22
-1ce48957-4d9f-4ed6-99b4-1609abc1c2dd,albers.voto,available,11.98,86.98,high,low,6,namecheap,,,18/09/2026 02:34
-0b22c52a-9181-4a65-bbf8-5e4ccc2457e5,giver.voto,available,11.98,86.98,high,low,5,namecheap,,,23/09/2026 10:44
-b487a3c6-e16c-4a18-b027-062af915b3d5,columbian.voto,available,11.98,86.98,medium,low,9,namecheap,,,12/08/2026 18:12
-89c82e23-107f-42ae-931d-8061a216c695,heard.voto,available,11.98,86.98,high,low,5,namecheap,,,24/09/2026 23:38
-7f8ef016-e6ee-4e58-bdbe-2d832725c24b,define.voto,available,11.98,86.98,high,low,6,namecheap,,,24/09/2026 05:41
-5b0955b3-bc28-49be-914b-12325ac85a7e,drogue.voto,available,11.98,86.98,medium,low,6,namecheap,,,17/09/2026 21:47
-1b6a53c3-108c-41fe-890c-489b1de05d42,neighborhood.voto,available,19.99,,high,low,12,name.com,,,
-f0a06bf5-07cc-49dc-958e-baf7a9fb29c0,virtually.voto,available,11.98,86.98,high,low,9,namecheap,,,28/09/2026 11:56
-0c92936f-f51f-42ac-ba4c-e1a48e7d4c9a,ducktape.voto,available,19.99,102.99,high,low,9,name.com,,,27/09/2026 08:55
-d34b2893-4718-4c05-8ab6-ae0e397d25a1,theocratic.voto,available,11.98,86.98,medium,low,10,namecheap,,,11/09/2026 12:52
-2dfa2c6d-906a-4548-915a-61da760e5d17,polythene.voto,available,19.99,,medium,low,9,name.com,,,
-b060a744-95be-4280-b010-acd2728e467f,daniels.voto,available,11.98,86.98,high,low,7,namecheap,,,25/09/2026 15:51
-0cc49c13-60f4-420f-8fbe-2be12e8d13d8,authorised.voto,available,11.98,86.98,high,low,10,namecheap,,,22/09/2026 13:51
-f33855e3-ebd7-4ae2-8869-03742d01f3d8,referred.voto,available,11.98,86.98,medium,low,8,namecheap,,,17/09/2026 06:11
-d6f39590-7345-478c-b179-fbbd75b5d3cf,brigand.voto,available,11.98,86.98,medium,low,7,namecheap,,,22/09/2026 01:20
-8cb668ff-e53d-4dfd-8dc2-c32508c58a3b,thorough.voto,available,11.98,86.98,high,low,8,namecheap,,,17/08/2026 17:10
-e2becbca-534d-4396-87a8-40cee199fb1f,threatened.voto,available,11.98,86.98,medium,low,10,namecheap,,,11/09/2026 14:13
-58661a82-bacd-49e0-bed5-4daa35d8fa66,benthal.voto,available,11.98,86.98,medium,low,7,namecheap,,,09/08/2026 14:47
-b079b42d-47db-45dc-aa0f-d8a46f8f5623,malay.voto,available,11.98,86.98,high,low,5,namecheap,,,24/08/2026 13:42
-20d57f99-7351-47c6-875c-2c4be4de0ff8,scant.voto,available,11.98,86.98,medium,low,5,namecheap,,,09/09/2026 22:36
-dd44f54c-61f3-4e22-8c39-84b4033bb805,bubbly.voto,available,11.98,86.98,high,low,6,namecheap,,,11/08/2026 07:16
-41109826-06f0-4b0c-b814-747bdfc6c5a4,lunched.voto,available,19.99,102.99,medium,low,7,name.com,,,21/09/2026 04:17
-f34ef721-103a-490d-a8fe-64bd71958ea0,goddam.voto,available,11.98,86.98,medium,low,6,namecheap,,,10/08/2026 12:44
-f260350a-31f7-4c5d-9a2a-126dee8357a6,bionomics.voto,available,11.98,86.98,medium,low,9,namecheap,,,23/09/2026 18:43
-088cbbaa-4839-4e55-9aa3-a00356234eb9,launched.voto,available,11.98,86.98,high,low,8,namecheap,,,18/09/2026 13:03
-5aa0e15e-b958-4eae-aa5f-9edd378d7d9d,synthetic.voto,available,11.98,86.98,high,low,9,namecheap,,,11/08/2026 23:35
-e5444848-60db-4054-b145-1e6bcdf1e4a7,prosily.voto,available,11.98,86.98,low,low,7,namecheap,,,15/09/2026 21:46
-d35a85c7-824c-4125-9a91-17e26e2a7454,pei.voto,available,10.92,58,medium,low,3,dynadot,,,28/09/2026 14:30
-ca5cfae2-8e64-4365-9657-d0dd56c1c948,flexibly.voto,available,11.98,86.98,medium,low,8,namecheap,,,14/09/2026 18:58
-a22c0c94-2357-437f-ac0a-ffd7e574832c,winged.voto,available,11.98,86.98,high,low,6,namecheap,,,13/09/2026 12:29
-d1f86d9d-38ae-42b7-a470-ccaee01b5e92,beverley.voto,available,10.55,55.93,medium,low,8,spaceship,,,29/09/2026 00:09
-e42fceb4-ed61-4b63-a604-557ffeb7d2b4,homicide.voto,available,11.98,86.98,medium,low,8,namecheap,,,25/09/2026 07:26
-b3db1655-9ebe-4b00-a4d8-4be5e27ec006,owed.voto,available,10.55,55.93,high,low,4,spaceship,,,27/09/2026 17:35
-84965d0b-5750-48aa-b9d2-43e6b0cfdd48,manganese.voto,available,11.98,86.98,medium,low,9,namecheap,,,20/09/2026 22:40
-b2adf701-3fb4-426e-b755-ce1a82e94e7e,winsomely.voto,available,11.98,86.98,medium,low,9,namecheap,,,14/09/2026 15:43
-5e00d216-9952-4302-86f0-bd84f331ba0f,precisely.voto,available,11.98,86.98,high,low,9,namecheap,,,04/09/2026 14:15
-dccb2faf-15a5-4af4-9770-706425ab6335,rio.voto,available,10.55,55.93,high,low,3,spaceship,,,28/09/2026 03:02
-dd0424c7-28aa-45c2-ae4c-234c576ab135,agrippina.voto,available,11.98,86.98,medium,low,9,namecheap,,,17/09/2026 19:33
-86ffdb26-45e8-4674-87d1-d9bbc20132a6,route.voto,available,11.98,86.98,high,low,5,namecheap,,,25/09/2026 07:52
-1c1a6ac6-d04b-4c58-88ac-4a1c33309a13,unauthorized.voto,available,26.5,,medium,low,12,unstoppable,,,28/09/2026 22:49
-6d404f5c-9cac-45f2-876f-71bb258b506f,intend.voto,available,11.98,86.98,high,low,6,namecheap,,,25/09/2026 18:20
-1e8b4c47-fb1c-4b09-9d60-4410f02bb19e,bellhop.voto,available,11.98,86.98,high,low,7,namecheap,,,23/09/2026 06:01
-5cde97d4-7647-4d21-b825-8be1aff25407,ladder.voto,available,19.99,,high,low,6,name.com,,,
-cf16411a-b486-403d-9794-1327f63ccdba,and.voto,available,19.99,,high,medium,3,name.com,,,
-c6ee96a2-2d04-45ea-8512-4a4d1687f145,comforts.voto,available,11.98,86.98,high,low,8,namecheap,,,18/09/2026 18:50
